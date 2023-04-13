@@ -176,12 +176,12 @@ font-family: 'Poppins', sans-serif;
 /* section-3  */
 .h-s3-filt-butn{
   background-color: #DFEBFA;
-  width: 180px;
+  width: 164px;
   height: 65px;
   transition: 0.3s all ease;
   cursor: pointer;
 }
-.h-s3-filt-butn:hover{
+.h-s3-filt-butn:hover, .active{
   background-color: #154E9C;
   color: #DFEBFA;
   transition: 0.3s all ease;
@@ -191,3 +191,10 @@ font-family: 'Poppins', sans-serif;
   height: 83px;
   line-height: 5;
 }
+/* filter  */
+.filterDiv {
+  display: none !important; 
+}
+.show {
+  display: block !important;
+} 

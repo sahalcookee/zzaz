@@ -29,16 +29,16 @@ function active($currect_page){
                 </div>
             </div>
             <div class="container-fluid">
-                <div class="row mb-5">
+                <div class="row mb-0 mb-lg-5">
                     <div class="col-lg-10 offset-lg-2 h-ban-clip">
                         <div class="container h-ban-clip-ps py-4">
                             <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-1.png" alt="">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-2.png" alt="">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-3.png" alt="">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-4.png" alt="">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-5.png" alt="">
-                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-6.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-1.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-2.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-3.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-4.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-5.png" alt="">
+                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-6.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -181,56 +181,106 @@ function active($currect_page){
             <div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="p-5 d-flex flex-wrap justify-content-start">
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal active">IOS</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Android</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">UI/UX</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Web Development</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Database</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Cloud & Push Notification</button>
-                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Payment</button>
+                        <div class="p-4 d-flex flex-wrap justify-content-start" id="myBtnContainer">
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h active" id="filter-clicked" onclick="filterSelection('ios')">IOS</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('android')">Android</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('uiux')">UI/UX</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('web')">Web Development</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('database')">Database</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('cloud')">Cloud & Push Notification</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('payment')">Payment</button>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="py-5">
+                        <div class="py-2 py-lg-4">
                             <div class="d-flex flex-wrap justify-content-around justify-content-lg-between">
                                 <!-- ios  -->
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv ios">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-ios-1.png" alt="">
                                     </div>
                                     <span class="font-poppins font-normal primary-blue">Swift</span>
                                 </div>
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv ios android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-ios-2.png" alt="">
                                     </div>
                                     <span class="font-poppins font-normal primary-blue">PWA</span>
                                 </div>
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv ios">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-ios-3.png" alt="">
                                     </div>
                                     <span class="font-poppins font-normal primary-blue">Objective-C</span>
                                 </div>
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv ios">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-ios-4.png" alt="">
                                     </div>
                                     <span class="font-poppins font-normal primary-blue">X-Code</span>
                                 </div>
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv ios android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-ios-5.png" alt="">
                                     </div>
                                     <span class="font-poppins font-normal primary-blue">Flutter</span>
                                 </div>
                                 <!-- android  -->
-                                <div class="text-center">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                <div class="text-center m-3 filterDiv android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img src="assets/images/h-andr-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Flutter</span>
+                                    <span class="font-poppins font-normal primary-blue">Java</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-andr-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Kotlin</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-andr-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Android<br>Studio</span>
+                                </div>
+                                <!-- ui ux  -->
+                                <div class="text-center m-3 filterDiv uiux">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-uiux-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Sketch</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv uiux">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-uiux-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Adobe XD</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv uiux">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-uiux-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Zeplin</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv uiux">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-uiux-4.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Invision</span>
+                                </div>
+                                <!-- web develop  -->
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-web-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">HTML5/<br>CSS3</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img src="assets/images/h-web-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">HTML5/<br>CSS3</span>
                                 </div>
                             </div>
                         </div>
@@ -245,5 +295,58 @@ function active($currect_page){
     <?php include 'assets/includes/footer.php';?>
 
     <!-- javascript -->
-        
+        <!-- filter-tab  -->
+        <script>
+            filterSelection("all");
+            function filterSelection(c) {
+            var x, i;
+            x = document.getElementsByClassName("filterDiv");
+            if (c == "all") c = "";
+            // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+            for (i = 0; i < x.length; i++) {
+                w3RemoveClass(x[i], "show");
+                if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+            }
+            }
+
+            function w3AddClass(element, name) {
+            var i, arr1, arr2;
+            arr1 = element.className.split(" ");
+            arr2 = name.split(" ");
+            for (i = 0; i < arr2.length; i++) {
+                if (arr1.indexOf(arr2[i]) == -1) {
+                element.className += " " + arr2[i];
+                }
+            }
+            }
+
+            // Hide elements that are not selected
+            function w3RemoveClass(element, name) {
+            var i, arr1, arr2;
+            arr1 = element.className.split(" ");
+            arr2 = name.split(" ");
+            for (i = 0; i < arr2.length; i++) {
+                while (arr1.indexOf(arr2[i]) > -1) {
+                arr1.splice(arr1.indexOf(arr2[i]), 1);
+                }
+            }
+            element.className = arr1.join(" ");
+            }
+
+            var btnContainer = document.getElementById("myBtnContainer");
+            var btns = btnContainer.getElementsByClassName("h-s3-filter-h");
+            for (var i = 0; i < btns.length; i++) {
+            btns[i].addEventListener("click", function () {
+                var current = document.getElementsByClassName("active");
+                current[0].className = current[0].className.replace(" active", "");
+                this.className += " active";
+            });
+            }
+        </script>
+        <!-- make filter clicked at refresh  -->
+        <script>
+            document.addEventListener("DOMContentLoaded", function(event) { 
+            document.getElementById("filter-clicked").click();
+            });
+        </script>
         
