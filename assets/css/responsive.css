@@ -1,0 +1,33 @@
+@media (min-width: 991.98px){
+    .h-s3-pt{
+        padding-top: 180px !important;
+    }
+}
+@media (min-width: 991.98px) and (max-width: 1199.98px) {
+    /* ----------home -------- */
+    .h-s2-card-div{
+        height: 210px;
+    }
+}
+@media (max-width: 991.98px) { 
+    /* nav  */
+    .dropdown-menu::after{
+      left: 136px;
+    }
+    /* -------home ------- */
+    .h-ban-clip-ps{
+        padding-left: 5%;
+        padding-right: 0;
+    }
+    .h-s2-ttlcard-parent, .h-s2-ttlcard{
+        position: unset !important;
+    }
+    .h-s2-img2-pe{
+        padding-bottom: 4rem;
+    }
+}
+@media (max-width: 575.98px) {
+    .h-ban-clip{
+        clip-path:none;
+    }
+}

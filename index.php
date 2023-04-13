@@ -10,125 +10,236 @@ function active($currect_page){
 ?>
     
     <!-- banner  -->
-    <section>
-        <div class="about-banner-sec rounded-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3">
-                        <div class="mt-0 mt-md-5 pt-3">
-                            <h4 class="about-banner-about text-white fs-3 mb-0 mb-md-5 pb-5 pt-5 mt-3">About Us</h4>
-                            <p class="about-banner-p-1 text-uppercase pt-2">Quality rice, grown with care.</p>
+        <section class="pt-4">
+            <div class="container pb-5">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <img class="h-banner-img img-fluid" src="assets/images/h-banner-img.png" alt="">
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="py-4">
+                            <h1 class="fs-1 extra-light-blue font-fix-sb pb-3">Experience Next-Level Productivity with Our Software Solutions</h1>
+                            <p class="font-poppins font-normal light-blue pb-4">Technology is constantly evolving, and businesses must keep up to stay relevant.</p>
+                            <div class="pb-5">
+                                <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Let’s Talk</a>
+                            </div>
+                            <img src="assets/images/h-ban-tech.svg" alt=""><span class="mx-3"><img src="assets/images/h-ban-plus.png" alt=""></span><span class="extra-light-blue font-fix-sb">Technologies</span>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 order-1 order-md-0 align-self-end">
-                        <img class="img-fluid abt-ban-img" src="assets/images/about-banner-img.png" alt="">
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <h3 class="about-banner-h text-white mt-0 mt-md-5 pt-4">Experience the taste of premium rice with every grain.</h3>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="text-end abt-ban-butn-d">
-            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="brands.php">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
-        </div>
-    </section>
-    
+            <div class="container-fluid">
+                <div class="row mb-5">
+                    <div class="col-lg-10 offset-lg-2 h-ban-clip">
+                        <div class="container h-ban-clip-ps py-4">
+                            <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-1.png" alt="">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-2.png" alt="">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-3.png" alt="">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-4.png" alt="">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-5.png" alt="">
+                                <img class="p-2 p-md-0" src="assets/images/h-ban-client-6.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
     <!-- section-1  -->
     <section class="py-5">
         <div class="container">
-            <p class="abt-s1-p fs-2 my-4 my-lg-5 py-3">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
-            <div class="rounded-5 bg-white position-relative">
-                <div class="row">
-                    <div class="col-lg-7 text-start p-5">
-                        <p class="abt-s1-p1 text-uppercase">Quality You Can Count On</p>
-                        <h3 class="abt-s1-h mb-4 mb-lg-5 pb-4 pb-lg-5">Healthy, Nutritious Rice for Every Meal</h3>
-                        <div class="pt-4 pt-lg-5 ms-4 ps-2 mb-5">
-                            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="brands.php">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
-                        </div>
+            <div class="row g-3 g-lg-4 align-items-center">
+                <div class="col-lg-4 col-sm-6">
+                    <div>
+                        <h2 class="font-fix-sb fs-2 primary-blue">Services We Provide</h2>
+                        <p class="font-poppins font-normal para-black">Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever </p>
                     </div>
-                    <div class="col-lg-5">
-                        <img class="img-fluid abt-s1-img" src="assets/images/about-s1-img.png" alt="">
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="rounded rounded-3 h-s1-card-div p-4">
+                        <img src="assets/images/h-s1-icon-1.png" alt="">
+                        <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">App Development</h4>
+                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="rounded rounded-3 h-s1-card-div p-4">
+                        <img src="assets/images/h-s1-icon-2.png" alt="">
+                        <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Web Development</h4>
+                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="rounded rounded-3 h-s1-card-div p-4">
+                        <img src="assets/images/h-s1-icon-3.png" alt="">
+                        <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Graphic Design</h4>
+                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="rounded rounded-3 h-s1-card-div p-4">
+                        <img src="assets/images/h-s1-icon-4.png" alt="">
+                        <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">UI/UX Design</h4>
+                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="rounded rounded-3 h-s1-card-div p-4">
+                        <img src="assets/images/h-s1-icon-5.png" alt="">
+                        <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Corporate Design</h4>
+                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <!-- section-2  -->
-    <section class="py-5">
+    
+    <!-- section -2  -->
+    <section class="py-5 banner-bg">
         <div class="container">
-            <h3 class="main-head h-s2-h text-center mx-auto mb-3 mb-lg-2">Our Vision & Mission</h3>
             <div class="row align-items-center">
-                <div class="col-lg-4 order-1 order-lg-0">
-                    <h6 class="fs-5 about-banner-p-1 text-black mb-3">Vision</h6>
-                    <p class="about-banner-p-1">To be a leading global producer of high-quality, sustainably grown rice that nourishes people while protecting the environment.</p>
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="assets/images/h-s2-img-1.png" alt="">
                 </div>
-                <div class="col-lg-4 text-center">
-                    <img class="img-fluid abt-s2-img" src="assets/images/about-s2-img.png" alt="">
+                <div class="col-lg-6">
+                    <div>
+                        <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">Innovation At The Core</h2>
+                        <p class="font-poppins font-normal light-blue pb-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
+                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Read More</a>
+                    </div>
                 </div>
-                <div class="col-lg-4">
-                    <h6 class="fs-5 about-banner-p-1 text-black mb-3">Mission</h6>
-                    <p class="about-banner-p-1">We are committed to producing rice that meets the highest standards of quality, taste, and nutrition, while also minimizing our environmental impact.</p>
+                <div class="col-lg-6">
+                    <h2 class="font-fix-sb fs-2 extra-light-blue mt-5">What Makes Us Different</h2>
+                </div>
+                <div class="col-lg-6">
+                    <p class="font-poppins font-normal light-blue mt-2 mt-lg-5">ou need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
                 </div>
             </div>
-                <div class="text-end mb-5 abt-s2-arrow d-none d-lg-block">
-                    <img src="assets/images/about-s2-arrow.png" alt="">
-                </div>
-            <div class="row align-items-center">
-                <div class="col-lg-3 col-6 text-center my-5 my-lg-0">
-                    <img class="img-fluid" src="assets/images/about-s2-img-1.png" alt="">
-                </div>
+            <div class="row mt-3">
                 <div class="col-lg-6 order-1 order-lg-0">
-                    <ul class="abt-s2-ul abt-s1-p ps-5 pe-4">
-                        <li class="py-2">Sourcing our rice from carefully selected farmers who use sustainable, eco-friendly growing practices.</li>
-                        <li class="py-2">Investing in advanced technologies and processes to improve our rice production efficiency and quality.</li>
-                        <li class="py-2">Working closely with our customers and partners to understand their needs and provide them with the best possible rice products and services.</li>
-                        <li class="py-2">Contributing to the well-being of our communities by supporting local farmers, promoting healthy diets, and protecting the environment.</li>
-                    </ul>
+                    <div class="position-relative h-s2-ttlcard-parent">
+                        <div class="row g-2 position-absolute h-s2-ttlcard">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">No False Promises</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">Zzaz serves the legitimate truth and service. No false promises are given. We give our word on the things we are able to do.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">Deliver Perfection</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">It is a hundred percent guarantee that our Apps will be the best quality. It will deliver to you within time with ultimate perfection.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">Agile Methodology</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">Considers all your essential requisite in one application and delivers to you favorably within short space of time with periodic updation.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">MVP in 30 Days</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">We help you build a short version of your project with enough features to experience and learn quickly to review and adapt plans frequently.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">Long Term Partnership</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">With efficient service, we build a long-term relationship with our clients. We are very sociable, so clients can share their innovative ideas with us happily.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
+                                    <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">T-Shaped Developers</h5>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">T shaped developers are expert in specific domain together with skilled across other domains too. They are special in the industry.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-lg-3 col-6 text-center my-5 my-lg-0">
-                    <img class="img-fluid" src="assets/images/about-s2-img-2.png" alt="">
+                <div class="col-lg-6 h-s2-img2-pe">
+                    <img class="img-fluid" src="assets/images/h-s2-img-2.png" alt="">
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- footer  -->
-    <div class="position-relative">
-        <footer class="mt-2 mt-sm-5 pt-5 px-0 px-sm-4">
-            <div class="container-fluid">
-                <div class="rounded-5 footer-bg text-center mt-3 pt-5">
-                    <div class="position-relative">
-                        <a href="index.php"><img class="position-absolute footer-logo translate-middle" src="assets/images/footer-logo.svg" alt=""></a>
-                    </div>
-                    <div class="pt-3">
-                        <a class="footer-p-no-link pt-5 fs-5 d-inline-block text-decoration-none">#667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
-                            <div class="z-3 position-relative my-5 pb-5">
-                                <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="contacts.php">Get an enquiry<img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
-                            </div>
-                        <div class="d-flex justify-content-center my-4">
-                            <a class="mx-2 footer-social" href="https://www.facebook.com/alfirdousrice" target="_blank"><img src="assets/images/footer-facebook.png" alt=""></a>
-                            <a class="mx-2 footer-social" href="https://www.instagram.com/alfirdous_foods/" target="_blank"><img src="assets/images/footer-insta.png" alt=""></a>
-                            <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-youtube.png" alt=""></a>
-                        </div>
-                        <div class="pb-5">
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="index">Home</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="about">About</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="brands">Brands</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="contacts">Contact Us</a>
-                        </div>
-                    </div>
+    <!-- section-3  -->
+    <section class="py-5 h-s3-pt">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2 class="font-fix-sb fs-2 primary-blue">Smart Solutions: The Technology That Enhances Our Efficiency</h2>
                 </div>
-                <div class="text-center">
-                    <p class="copyright-link text-uppercase m-0 py-3">Copyright 2023 - al firdous quality products | <a class="text-decoration-none copyright-link  copyright-link-a" href="https://cookee.io/" target="_blank"> DESIGNED BY COOKEE</a></p>
+                <div class="col-lg-6">
+                    <p class="font-poppins font-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
                 </div>
             </div>
-        </footer>
-        <img class="footer-rice1-img text-center position-absolute d-none d-sm-block" src="assets/images/h-footer-rice-1.png" alt="">
-        <img class="footer-rice2-img text-center position-absolute d-none d-sm-block" src="assets/images/h-footer-rice-2.png" alt="">
-    </div>
-    </div>
+            <div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="p-5 d-flex flex-wrap justify-content-start">
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal active">IOS</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Android</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">UI/UX</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Web Development</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Database</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Cloud & Push Notification</button>
+                            <button class="border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal">Payment</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="py-5">
+                            <div class="d-flex flex-wrap justify-content-around justify-content-lg-between">
+                                <!-- ios  -->
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-ios-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Swift</span>
+                                </div>
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-ios-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">PWA</span>
+                                </div>
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-ios-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Objective-C</span>
+                                </div>
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-ios-4.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">X-Code</span>
+                                </div>
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-ios-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Flutter</span>
+                                </div>
+                                <!-- android  -->
+                                <div class="text-center">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center m-3">
+                                        <img src="assets/images/h-andr-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue">Flutter</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>

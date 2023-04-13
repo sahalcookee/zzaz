@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zzaz</title>
-    <link rel="icon" type="x-icon/image" href="">
+    <link rel="icon" type="x-icon/image" href="assets/images/favicon.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -17,7 +17,7 @@
     <div class="banner-bg">
         <!-- header  -->
         <!-- desktop nav  -->
-        <div id="dynamic" class="bg-transparent d-none d-lg-block"> 
+        <div class="bg-transparent d-none d-lg-block dynamic"> 
             <div class="container">
                 <nav class="desk-nav py-4">
                     <div class="row align-items-baseline">
@@ -62,48 +62,48 @@
             </div>
         </div>
         <!-- responsive-nav  -->
-        <nav class="navbar bg-body-tertiary fixed-top d-block d-lg-none">
+        <div class="navbar d-block d-lg-none py-3 dynamic">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.php"><img class="w-75 resp-logo" src="assets/images/logo.svg" alt=""></a>
+                <a class="navbar-brand" href="index.php"><img class="w-75" src="assets/images/logo.svg" alt=""></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-                    <span><img class="resp-toggler" src="assets/images/toggler.png" alt=""></span>
+                    <span><img src="assets/images/toggler.png" alt=""></span>
                 </button>
-                <div class="offcanvas offcanvas-end resp-nav-bg" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                    <div class="offcanvas-header">
-                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><img class="w-50" src="assets/images/logo.svg" alt=""></h5>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header py-3">
+                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><a href="index.php"><img class="w-75" src="assets/images/logo.svg" alt=""></a></h5>
                         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
-                    <div class="offcanvas-body">
-                            <ul class="d-flex list-unstyled d-flex flex-column text-center">
-                                <li class="py-2"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">About</a></li>
-                                <li class="dropdown py-2">
-                                    <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Services
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">App Development</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Web Development</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Graphics Designing</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">UI/UX Designing</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Corporate Designing</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown py-2">
-                                    <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Solutions
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Action</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Another action</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Something else here</a></li>
-                                    </ul>
-                                </li>
-                                <li class="py-2"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Projects</a></li>
-                                <li class="py-2"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Career</a></li>
-                                <li class="py-2"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Contact</a></li>
-                            </ul>
+                    <div class="offcanvas-body mt-5">
+                        <ul class="d-flex list-unstyled d-flex flex-column text-center">
+                            <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">About</a></li>
+                            <li class="dropdown py-2 fs-5">
+                                <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Services
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-resp">
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">App Development</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Web Development</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Graphics Designing</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">UI/UX Designing</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Corporate Designing</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown py-2 fs-5">
+                                <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Solutions
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-resp">
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Action</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Another action</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Something else here</a></li>
+                                </ul>
+                            </li>
+                            <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Projects</a></li>
+                            <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Career</a></li>
+                            <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#">Contact</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </nav>
+        </div>
     

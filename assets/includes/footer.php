@@ -10,9 +10,9 @@
         <script>
             $(window).scroll(function(){
                 if ($(this).scrollTop() > 900) {
-                $('#dynamic').addClass('fixed-nav');
+                $('.dynamic').addClass('fixed-nav');
                 } else {
-                $('#dynamic').removeClass('fixed-nav');
+                $('.dynamic').removeClass('fixed-nav');
                 }
             });
         </script>

@@ -95,3 +95,99 @@ font-family: 'Poppins', sans-serif;
   transition: 0.5s ease-in-out;
 }
 /* resp-nav  */
+.bg-body-tertiary{
+  background-color: #154E9C;
+}
+.navbar-toggler{
+  border: none !important;
+}
+.navbar-toggler:focus{
+  box-shadow: none !important;
+}
+.offcanvas{
+  background-color: #154E9C !important;
+}
+.btn-close:focus{
+  box-shadow: none !important;
+}
+.dropdown-menu-resp{
+  inset: 48px auto auto 30px !important;
+}
+/*--------------- home ---------------- */
+/* banner  */
+.h-banner-img{
+  mix-blend-mode: luminosity;
+}
+.h-ban-clip{
+  clip-path: polygon(9.75% 0%, 100% 0%, 100% 100%, 0% 100%);
+  background-color: #fff;
+}
+.h-ban-clip-ps{
+  padding-left: 15%;
+  padding-right: 10%;
+}
+/* section -1  */
+.h-s1-card-div{
+  box-shadow: 4px 4px 45px rgb(0 0 0 / 7%);
+  transition: 0.3s all ease;
+}
+.h-s1-card-div:hover {
+  background-color: #DFEBFA;
+  box-shadow: 4px 4px 45px rgb(0 0 0 / 15%);
+  transition: 0.3s all ease;
+}
+.h-s1-card-p{
+  transition: 0.3s all ease;
+}
+.h-s1-card-div:hover .h-s1-card-p{
+  color: #154E9C;
+  transition: 0.3s all ease;
+}
+/* section-2  */
+.h-s2-card-div{
+  background-color: #001B41;
+  transition: 0.3s all ease;
+  height: 240px;
+  overflow-y: scroll;
+  box-shadow: 0 0 5px rgb(0 108 255 / 40%);
+}
+.h-s2-card-p{
+  display: none;
+  transition: 0.5s all ease;
+}
+.h-s2-card-h{
+  transition: 0.5s all ease;
+}
+.h-s2-card-div:hover{
+  background-color:#DFEBFA;
+  transition: 0.3s all ease;
+}
+.h-s2-card-div:hover .h-s2-card-p{
+  display: block;
+  transition: 0.5s all ease;
+}
+.h-s2-card-div:hover .h-s2-card-h{
+  display: none;
+  transition: 0.5s all ease;
+}
+.h-s2-img2-pe{
+  padding-bottom: 11rem;
+}
+/* section-3  */
+.h-s3-filt-butn{
+  background-color: #DFEBFA;
+  width: 180px;
+  height: 65px;
+  transition: 0.3s all ease;
+  cursor: pointer;
+}
+.h-s3-filt-butn:hover{
+  background-color: #154E9C;
+  color: #DFEBFA;
+  transition: 0.3s all ease;
+}
+.h-s3-fil-item{
+  width: 83px;
+  height: 83px;
+  line-height: 5;
+}
