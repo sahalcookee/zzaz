@@ -489,7 +489,27 @@ function active($currect_page){
 
     <!-- section-5  -->
     <section class="py-5">
-        
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2 class="font-fix-sb fs-2 primary-blue">Honest Reviews from Our Customers</h2>
+                </div>
+                <div class="col-lg-6">
+                    <p class="font-poppins font-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure th</p>
+                </div>
+            </div>
+            <div class="mt-5">
+                <div class="row justify-content-center">
+                    <div class="col-10">
+                        <div class="banner-bg w-100 px-5 py-4 position-relative rounded h-s5-testim-div">
+                            <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
+                            <p class="font-poppins font-normal extra-light-blue m-0 text-center px-5">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                            <p class="font-fix-sb extra-light-blue text-end mt-3 pe-5">Customer Name</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- footer  -->
