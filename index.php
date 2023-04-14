@@ -33,12 +33,12 @@ function active($currect_page){
                     <div class="col-lg-10 offset-lg-2 h-ban-clip">
                         <div class="container h-ban-clip-ps py-4">
                             <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-1.png" alt="">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-2.png" alt="">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-3.png" alt="">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-4.png" alt="">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-5.png" alt="">
-                                <img class="p-3 p-md-0 img-fluid" src="assets/images/h-ban-client-6.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-1.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-2.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-3.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-4.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-5.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-6.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -197,90 +197,195 @@ function active($currect_page){
                                 <!-- ios  -->
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-ios-1.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Swift</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Swift</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-ios-2.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">PWA</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">PWA</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-ios-3.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Objective-C</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Objective-C</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-ios-4.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">X-Code</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">X-Code</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-ios-5.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Flutter</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Flutter</span>
                                 </div>
                                 <!-- android  -->
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-andr-1.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Java</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Java</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-andr-2.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Kotlin</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Kotlin</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-andr-3.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Android<br>Studio</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Android<br>Studio</span>
                                 </div>
                                 <!-- ui ux  -->
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-uiux-1.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Sketch</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Sketch</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-uiux-2.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Adobe XD</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Adobe XD</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-uiux-3.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Zeplin</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Zeplin</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-uiux-4.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">Invision</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Invision</span>
                                 </div>
                                 <!-- web develop  -->
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-web-1.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">HTML5/<br>CSS3</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">HTML5<br>CSS3</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img src="assets/images/h-web-1.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue">HTML5/<br>CSS3</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Angular</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Node.js</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-4.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">PHP</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Laravel</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-6.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Codelgniter</span>
+                                </div>
+                                <!-- database  -->
+                                <div class="text-center m-3 filterDiv database">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MongoDB</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv database">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MySQL</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv database">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MSSQL</span>
+                                </div>
+                                <!-- cloud  -->
+                                <div class="text-center m-3 filterDiv cloud">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Cloud</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv cloud">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">AWS</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv cloud">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Firebase<br>FCM</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv cloud">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-4.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Firebase<br>Crashlytics</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv cloud">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Analytics</span>
+                                </div>
+                                <!-- payment  -->
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-1.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Telr</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-2.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Payfort</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-3.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">RazorPay</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-4.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">CCAvenue</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Paytm</span>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +394,103 @@ function active($currect_page){
             </div>
         </div>
     </section>
+    
+    <!-- section-4  -->
+    <section class="py-5 banner-bg">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div>
+                        <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">A Track Record of Excellence: Our Past Projects</h2>
+                        <p class="font-poppins font-normal light-blue pb-4">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
+                        <div class="d-none d-lg-block">
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">View More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="d-flex align-items-center flex-column flex-sm-row">
+                        <div>
+                            <div>
+                                <div class="p-2">
+                                    <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-1.png" alt="">
+                                        <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
+                                            <p class="m-0 font-fix-sb text-white fs-5 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
+                                            <div class="d-flex justify-content-around">
+                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="p-2">
+                                    <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-2.png" alt="">
+                                        <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
+                                            <p class="m-0 font-fix-sb text-white fs-5 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
+                                            <div class="d-flex justify-content-around">
+                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <div class="p-2">
+                                    <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-3.png" alt="">
+                                        <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
+                                            <p class="m-0 font-fix-sb text-white fs-5 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
+                                            <div class="d-flex justify-content-around">
+                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="p-2">
+                                    <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-4.png" alt="">
+                                        <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
+                                            <p class="m-0 font-fix-sb text-white fs-5 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
+                                            <div class="d-flex justify-content-around">
+                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="p-2">
+                                    <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-5.png" alt="">
+                                        <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
+                                            <p class="m-0 font-fix-sb text-white fs-5 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
+                                            <div class="d-flex justify-content-around">
+                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-5 d-block d-lg-none text-center">
+                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">View More</a>
+                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- section-5  -->
+    <section class="py-5">
+        
+    </section>
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
