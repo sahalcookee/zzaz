@@ -182,7 +182,7 @@ function active($currect_page){
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="p-4 d-flex flex-wrap justify-content-start" id="myBtnContainer">
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h active" id="filter-clicked" onclick="filterSelection('ios')">IOS</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h active-filter" id="filter-clicked" onclick="filterSelection('ios')">IOS</button>
                             <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('android')">Android</button>
                             <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('uiux')">UI/UX</button>
                             <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('web')">Web Development</button>
@@ -498,13 +498,52 @@ function active($currect_page){
                     <p class="font-poppins font-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure th</p>
                 </div>
             </div>
-            <div class="mt-5">
-                <div class="row justify-content-center">
-                    <div class="col-10">
-                        <div class="banner-bg w-100 px-5 py-4 position-relative rounded h-s5-testim-div">
-                            <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                            <p class="font-poppins font-normal extra-light-blue m-0 text-center px-5">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
-                            <p class="font-fix-sb extra-light-blue text-end mt-3 pe-5">Customer Name</p>
+            <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <div class="mt-3 mt-lg-5 pt-5">
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-10">
+                                <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
+                                    <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
+                                    </div>
+                                    <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
+                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="mt-3 mt-lg-5 pt-5">
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-10">
+                                <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
+                                    <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
+                                    </div>
+                                    <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
+                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="mt-3 mt-lg-5 pt-5">
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-10">
+                                <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
+                                    <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
+                                    </div>
+                                    <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
+                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -558,9 +597,9 @@ function active($currect_page){
             var btns = btnContainer.getElementsByClassName("h-s3-filter-h");
             for (var i = 0; i < btns.length; i++) {
             btns[i].addEventListener("click", function () {
-                var current = document.getElementsByClassName("active");
-                current[0].className = current[0].className.replace(" active", "");
-                this.className += " active";
+                var current = document.getElementsByClassName("active-filter");
+                current[0].className = current[0].className.replace(" active-filter", "");
+                this.className += " active-filter";
             });
             }
         </script>
@@ -571,3 +610,18 @@ function active($currect_page){
             });
         </script>
         
+        <!-- carousel  -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        <script>
+           var owl = $('.owl-carousel');
+                owl.owlCarousel({
+                    items:1,
+                    loop:true,
+                    dots:true,
+                    margin:10,
+                    autoplay:true,
+                    autoplayTimeout:2500,
+                    autoplayHoverPause:true,
+                });
+        </script>
+
