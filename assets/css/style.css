@@ -280,3 +280,29 @@ font-family: 'Poppins', sans-serif;
 .footer-copyright{
   font-size: 12px;
 }
+
+/* -------------about ---------------- */
+.abt-ban-img{
+  filter: drop-shadow(4px 4px 20px rgba(0, 0, 0, 0.25));
+}
+.abt-ban-img-parent{
+  position: relative;
+}
+.abt-ban-img-child{
+  position: absolute;
+}
+.abt-s1-h-line{
+  width: 85px;
+  height: 2px;
+  background-color: #154E9C;
+  display: block;
+}
+.abt-s1-h-line-2{
+  background-color: #DFEBFA !important;
+}
+.abt-s2-box{
+  width: 75%;
+}
+.abt-s2-big-img{
+  max-width: 45%;
+}

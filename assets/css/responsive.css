@@ -11,6 +11,7 @@
 }
 /* ----------- */
 @media (max-width: 991.98px) { 
+
     /* nav  */
     .dropdown-menu::after{
       left: 136px;
@@ -40,6 +41,13 @@
     .footer-logo-img{
         width: 100px;
     }
+    /*-------------- about -------------- */
+    .abt-ban-img-parent{
+        position: unset;
+      }
+      .abt-ban-img-child{
+        position: unset;
+      }
 }
 @media (max-width: 767.98px) {
     /* ---------home ----------- */
@@ -60,6 +68,10 @@
     .h-s3-item-text{
         font-size: 13px;
     }
+    /* -------- about ----------- */
+    .abt-s2-box{
+        width: 100%;
+    }
 }
 @media (max-width: 575.98px) {
     /* ---------home---------  */
@@ -76,5 +88,9 @@
     .h-s5-testim-img-div{
         width: 100px;
         height: 100px;
+    }
+    /*------------ about ----------- */
+    .abt-s2-box-img{
+        width: 70px;
     }
 }
