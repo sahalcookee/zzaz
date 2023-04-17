@@ -97,11 +97,86 @@ function active($currect_page){
         </div>
     </section>
 
-    
+    <!-- section-3  -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="mt-0 pt-0 mt-lg-5 pt-lg-5">
+                        <span class="mb-3 abt-s1-h-line"></span>
+                        <h1 class="fs-1 primary-blue font-fix-sb pb-3">FAQ</h1>
+                        <p class="font-poppins fw-medium light-blue">Frequently Asked Questions</p>
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    <div>
+                        <div class="accordion accordion-flush" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">What is the price to develop a mobile app?</h6>
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Why choose Zzaz for your mobile app development?</h6>
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does Zzaz develop on-demand mobile apps?</h6>
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">What is the duration to develop a mobile app?</h6>
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does Zzaz offer support or maintenance post-delivery?</h6>
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
-
-    <!-- javascript -->
-        
-

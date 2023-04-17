@@ -48,6 +48,10 @@
       .abt-ban-img-child{
         position: unset;
       }
+    /* career  */
+    .career-box-border{
+        border: none;
+    }
 }
 @media (max-width: 767.98px) {
     /* ---------home ----------- */
