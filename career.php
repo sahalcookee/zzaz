@@ -134,36 +134,45 @@ function active($currect_page){
     <!-- popup  -->
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
-            <div class="modal-content p-5 rounded-4">
-                <div class="modal-header p-0 border-0 mb-1">
+            <div class="modal-content p-4 p-lg-5 rounded-4">
+                <div class="modal-header p-0 border-0 mb-3">
                     <h1 class="modal-title fs-4 font-fix-sb primary-blue" id="exampleModalLabel"></h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0">
-                        <form>
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="mb-2">
-                                            <label class="font-poppins fw-normal text-black" for="name">Name*</label><br>
-                                            <input type="text" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1" placeholder="Enter your name">
-                                        </div>
-                                        <div class="mb-2">
-                                            <label class="font-poppins fw-normal text-black" for="name">Name*</label><br>
-                                            <input type="text" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1" placeholder="Enter your name">
-                                        </div>
-                                        <div class="mb-2">
-                                            <label class="font-poppins fw-normal text-black" for="name">Name*</label><br>
-                                            <input type="text" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1" placeholder="Enter your name">
-                                        </div>
+                    <form>
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-6 mb-3 mb-lg-0">
+                                    <div class="mb-1">
+                                        <label for="name" class="font-poppins fw-normal text-black" for="name">Name*</label><br>
+                                        <input type="text" id="name" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your name" required>
+                                    </div>
+                                    <div class="mb-1">
+                                        <label for="phone" class="font-poppins fw-normal text-black" for="name">Phone*</label><br>
+                                        <input type="tel" id="phone" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your phone number" required>
+                                    </div>
+                                    <div class="mb-1">
+                                        <label for="email" class="font-poppins fw-normal text-black" for="name">Email*</label><br>
+                                        <input type="email" id="email" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your email" required>
+                                    </div>
+                                    <div>
+                                        <label class="font-poppins fw-semibold primary-blue rounded px-4 py-3 career-file-label" for="file-input" id="file-label">Upload Your CV</label>
+                                        <input class="career-file" type="file" name="file" id="file-input" onchange="updateLabel(this)">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div>
+                                        <label for="message" class="font-poppins fw-normal text-black">Message</label>
+                                        <textarea id="message" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1 career-popup-textarea" placeholder="Enter your message"></textarea>
+                                    </div>
+                                    <div class="text-center">
+                                        <button class="d-inline-block text-decoration-none text-white font-poppins fw-semibold z-butn rounded border-0 career-popoup-button">Submit</button>
                                     </div>
                                 </div>
                             </div>
-                        </form>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Send message</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -191,5 +200,16 @@ function active($currect_page){
 
                 modalTitle.textContent = `${recipient}`
             })
+        }
+    </script>
+    <!-- no file chosen -->
+    <script>
+        function updateLabel(input) {
+        var label = document.getElementById("file-label");
+        if (input.value) {
+            label.innerHTML = input.files[0].name;
+        } else {
+            label.innerHTML = "Upload Your CV";
+        }
         }
     </script>

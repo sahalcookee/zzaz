@@ -36,7 +36,7 @@ function active($currect_page){
                                         <input type="tel" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Phone" required>
                                         <textarea class="cont-form-input cont-form-txt-area w-100 border-bottom p-2 my-3" placeholder="Message"></textarea>
                                         <div class="text-center mt-3">
-                                            <button class="text-decoration-none text-white font-poppins fw-semibold px-4 py-2 z-butn rounded border-0" href="#">Submit</button>
+                                            <button class="text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded border-0" href="#">Submit</button>
                                         </div>
                                     </form>
                                 </div>
@@ -57,32 +57,32 @@ function active($currect_page){
                         <div class="row gy-1 gy-sm-5">
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div>
-                                        <img src="assets/images/contact-mail-icon.svg" alt="">
+                                    <div class="d-flex d-sm-block">
+                                        <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zzazsolutions@gmail.com</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div>
-                                        <img src="assets/images/contact-phone-icon.svg" alt="">
+                                    <div class="d-flex d-sm-block">
+                                        <img class="me-3" src="assets/images/contact-phone-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">+91 2547815364</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div>
-                                        <img src="assets/images/contact-location-icon.svg" alt="">
+                                    <div class="d-flex d-sm-block">
+                                        <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">15-2, Jalan BK, Bandar Kinrara, 47180 Puchong, Selangor, Malaysia</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none p-4 d-block">
-                                    <div>
-                                        <img src="assets/images/contact-time-icon.svg" alt="">
+                                    <div class="d-flex d-sm-block">
+                                        <img class="me-3" src="assets/images/contact-time-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3">office time : 9AM to 6PM</p>
                                     </div>
                                 </a>

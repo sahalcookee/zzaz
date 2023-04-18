@@ -73,7 +73,7 @@
                 <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                     <div class="offcanvas-header py-3">
                         <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><a href="index"><img class="w-75" src="assets/images/logo.svg" alt=""></a></h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
                     <div class="offcanvas-body mt-5">
                         <ul class="d-flex list-unstyled d-flex flex-column text-center">

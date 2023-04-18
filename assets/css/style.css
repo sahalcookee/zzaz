@@ -44,7 +44,7 @@ font-family: 'Poppins', sans-serif;
 }
 .z-butn:hover{
   transition: 0.5s all ease;
-  box-shadow: 4px 4px 20px #0073FF;
+  box-shadow: 0px 4px 10px #0073ffdb;
 }
 /* nav  */
 .link-hover{
@@ -381,4 +381,60 @@ font-family: 'Poppins', sans-serif;
   outline: 1px solid #006CFF;
   border-radius: 8px;
   box-shadow: 0px 0px 0px 4px rgb(27 131 254 / 22%);
+}
+.career-popup-textarea{
+  height: 270px;
+}
+.career-file{
+  display: none;
+}
+.career-file-label{
+  cursor: pointer;
+  background-color: #DFEBFA;
+  font-size: 13px;
+  transition: all 0.3s ease;
+}
+.career-file-label:hover{
+  background-color: #154E9C;
+  color: #DFEBFA !important;
+  transition: all 0.3s ease;
+}
+.career-popoup-button{
+  padding: 13px 50px;
+}
+/* project  */
+.proj-store-butn{
+  width: 150px;
+}
+.proj-store-butn-a{
+  transition: 0.3s all ease;
+}
+.proj-store-butn-a:hover{
+  opacity: 0.7;
+  transition: 0.3s all ease;
+}
+.proj-divtype-1,.proj-divtype-2{
+  position: relative;
+}
+.proj-divtype-1::after{
+  content: '';
+  position: absolute;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 24px solid rgb(255 255 255);
+  display: block;
+  bottom: -10px;
+  right: 50%;
+  transform: translate(50%, 50%);
+}
+.proj-divtype-2::after{
+  content: '';
+  position: absolute;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 24px solid rgb(255, 255, 255);
+  display: block;
+  top: -35px;
+  right: 50%;
+  transform: translate(50%, 50%);
 }
