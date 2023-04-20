@@ -90,7 +90,7 @@ font-family: 'Poppins', sans-serif;
 .fixed-nav {
   position: fixed;
   width: 100%;
-  z-index: 3;
+  z-index: 4;
   background-color: #154E9C !important;
   transition: 0.5s ease-in-out;
 }
@@ -112,6 +112,16 @@ font-family: 'Poppins', sans-serif;
 }
 .dropdown-menu-resp{
   inset: 48px auto auto 30px !important;
+}
+.contact-bar{
+  background-color: #DFEBFA;
+}
+.contact-bar-a{
+  transition: 0.3s all ease;
+}
+.contact-bar-a:hover{
+  color: #006CFF;
+  transition: 0.3s all ease;
 }
 /*--------------- home ---------------- */
 /* banner  */
@@ -239,7 +249,7 @@ font-family: 'Poppins', sans-serif;
   background: #154E9C !important;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
-  background: #0071FF !important;
+  background: #006CFF !important;
 }
 
 /*----------------- footer ---------------- */

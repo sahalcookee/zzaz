@@ -107,7 +107,7 @@ function active($currect_page){
                     <div>
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">Innovation At The Core</h2>
                         <p class="font-poppins font-normal light-blue pb-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
-                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Read More</a>
+                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="about">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -334,9 +334,9 @@ function active($currect_page){
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-2.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">AWS</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Analytics</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
@@ -352,9 +352,9 @@ function active($currect_page){
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-5.png" alt="">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Analytics</span>
+                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">AWS</span>
                                 </div>
                                 <!-- payment  -->
                                 <div class="text-center m-3 filterDiv payment">
@@ -395,6 +395,29 @@ function active($currect_page){
         </div>
     </section>
     
+    <!-- contact-bar  -->
+    <section class="py-5 contact-bar">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2 class="font-fix-sb fs-2 primary-blue">We're Here To Help With Your Next Software Project.</h2>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex justify-content-start justify-content-md-end align-items-center">
+                        <div class="me-3 me-md-5 mt-4 mt-md-0">
+                            <img src="assets/images/contact-bar-img.svg" alt="">
+                        </div>
+                        <a href="#" class="contact-bar-a text-decoration-none light-blue">
+                            <div class="mt-4 mt-md-0">
+                                <h4 class="font-fix-m fs-4 text-center lh-lg">Contact Us Now<br>+91 2547815364</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- section-4  -->
     <section class="py-5 banner-bg">
         <div class="container">
@@ -404,7 +427,7 @@ function active($currect_page){
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">A Track Record of Excellence: Our Past Projects</h2>
                         <p class="font-poppins font-normal light-blue pb-4">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
                         <div class="d-none d-lg-block">
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">View More</a>
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="projects">View More</a>
                         </div>
                     </div>
                 </div>

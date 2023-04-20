@@ -178,6 +178,29 @@ function active($currect_page){
         </div>
     </div>
 
+    <!-- contact-bar  -->
+    <section class="py-5 contact-bar">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2 class="font-fix-sb fs-2 primary-blue">We're Here To Help With Your Next Software Project.</h2>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex justify-content-start justify-content-md-end align-items-center">
+                        <div class="me-3 me-md-5 mt-4 mt-md-0">
+                            <img src="assets/images/contact-bar-img.svg" alt="">
+                        </div>
+                        <a href="#" class="contact-bar-a text-decoration-none light-blue">
+                            <div class="mt-4 mt-md-0">
+                                <h4 class="font-fix-m fs-4 text-center lh-lg">Contact Us Now<br>+91 2547815364</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
 
