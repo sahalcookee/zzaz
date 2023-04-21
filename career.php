@@ -60,8 +60,8 @@ function active($currect_page){
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="text-start text-lg-center mt-4 mt-lg-0">
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-4 px-sm-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="PHP Intern" href="#">Apply Now</a>
+                        <div class="text-end text-lg-center mt-4 mt-lg-0">
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="PHP Intern" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -91,8 +91,8 @@ function active($currect_page){
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="text-start text-lg-center mt-4 mt-lg-0">
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-4 px-sm-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="UI/UX Designer" href="#">Apply Now</a>
+                        <div class="text-end text-lg-center mt-4 mt-lg-0">
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="UI/UX Designer" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -122,8 +122,8 @@ function active($currect_page){
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="text-start text-lg-center mt-4 mt-lg-0">
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-4 px-sm-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="PHP Intern" href="#">Apply Now</a>
+                        <div class="text-end text-lg-center mt-4 mt-lg-0">
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="PHP Intern" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@ function active($currect_page){
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0">
-                    <form>
+                    <form action="#" method="post">
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-lg-6 mb-3 mb-lg-0">
@@ -167,7 +167,7 @@ function active($currect_page){
                                         <textarea id="message" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1 career-popup-textarea" placeholder="Enter your message"></textarea>
                                     </div>
                                     <div class="text-center">
-                                        <button class="d-inline-block text-decoration-none text-white font-poppins fw-semibold z-butn rounded border-0 career-popoup-button">Submit</button>
+                                        <button type="submit" value="send" class="d-inline-block text-decoration-none text-white font-poppins fw-semibold z-butn rounded border-0 career-popoup-button">Submit</button>
                                     </div>
                                 </div>
                             </div>

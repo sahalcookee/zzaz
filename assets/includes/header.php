@@ -30,11 +30,11 @@
                             <ul class="d-flex list-unstyled d-flex justify-content-between">
                                 <li><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('about');?>" href="about">About</a></li>
                                 <li class="dropdown">
-                                    <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('appdevelopment');?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Services
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">App Development</a></li>
+                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="appdevelopment">App Development</a></li>
                                         <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Web Development</a></li>
                                         <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Graphics Designing</a></li>
                                         <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">UI/UX Designing</a></li>
@@ -79,11 +79,11 @@
                         <ul class="d-flex list-unstyled d-flex flex-column text-center">
                             <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('about');?>" href="about">About</a></li>
                             <li class="dropdown py-2 fs-5">
-                                <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('appdevelopment');?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Services
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-resp">
-                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">App Development</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="appdevelopment">App Development</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Web Development</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Graphics Designing</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">UI/UX Designing</a></li>

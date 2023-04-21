@@ -19,7 +19,7 @@ function active($currect_page){
                     <div class="col-lg-6">
                         <div class="py-4">
                             <h1 class="fs-1 extra-light-blue font-fix-sb pb-3">Experience Next-Level Productivity with Our Software Solutions</h1>
-                            <p class="font-poppins font-normal light-blue pb-4">Technology is constantly evolving, and businesses must keep up to stay relevant.</p>
+                            <p class="font-poppins fw-normal light-blue pb-4">Technology is constantly evolving, and businesses must keep up to stay relevant.</p>
                             <div class="pb-5">
                                 <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Let’s Talk</a>
                             </div>
@@ -54,42 +54,42 @@ function active($currect_page){
                 <div class="col-lg-4 col-sm-6">
                     <div>
                         <h2 class="font-fix-sb fs-2 primary-blue">Services We Provide</h2>
-                        <p class="font-poppins font-normal para-black">Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever </p>
+                        <p class="font-poppins fw-normal para-black">Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="rounded rounded-3 h-s1-card-div p-4">
                         <img src="assets/images/h-s1-icon-1.png" alt="">
                         <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">App Development</h4>
-                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                        <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="rounded rounded-3 h-s1-card-div p-4">
                         <img src="assets/images/h-s1-icon-2.png" alt="">
                         <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Web Development</h4>
-                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                        <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="rounded rounded-3 h-s1-card-div p-4">
                         <img src="assets/images/h-s1-icon-3.png" alt="">
                         <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Graphic Design</h4>
-                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                        <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="rounded rounded-3 h-s1-card-div p-4">
                         <img src="assets/images/h-s1-icon-4.png" alt="">
                         <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">UI/UX Design</h4>
-                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                        <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="rounded rounded-3 h-s1-card-div p-4">
                         <img src="assets/images/h-s1-icon-5.png" alt="">
                         <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Corporate Design</h4>
-                        <p class="font-poppins font-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
+                        <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever  Ipsum has been the industry's standard dummy text eve</p>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@ function active($currect_page){
                 <div class="col-lg-6">
                     <div>
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">Innovation At The Core</h2>
-                        <p class="font-poppins font-normal light-blue pb-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
+                        <p class="font-poppins fw-normal light-blue pb-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
                         <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="about">Read More</a>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ function active($currect_page){
                     <h2 class="font-fix-sb fs-2 extra-light-blue mt-5">What Makes Us Different</h2>
                 </div>
                 <div class="col-lg-6">
-                    <p class="font-poppins font-normal light-blue mt-2 mt-lg-5">ou need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
+                    <p class="font-poppins fw-normal light-blue mt-2 mt-lg-5">ou need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,</p>
                 </div>
             </div>
             <div class="row mt-3">
@@ -175,20 +175,20 @@ function active($currect_page){
                     <h2 class="font-fix-sb fs-2 primary-blue">Smart Solutions: The Technology That Enhances Our Efficiency</h2>
                 </div>
                 <div class="col-lg-6">
-                    <p class="font-poppins font-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
+                    <p class="font-poppins fw-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
                 </div>
             </div>
             <div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="p-4 d-flex flex-wrap justify-content-start" id="myBtnContainer">
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h active-filter" id="filter-clicked" onclick="filterSelection('ios')">IOS</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('android')">Android</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('uiux')">UI/UX</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('web')">Web Development</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('database')">Database</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('cloud')">Cloud & Push Notification</button>
-                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins font-normal h-s3-filter-h" onclick="filterSelection('payment')">Payment</button>
+                        <div class="p-4 d-flex flex-wrap justify-content-center justify-content-sm-start" id="myBtnContainer">
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h active-filter" id="filter-clicked" onclick="filterSelection('ios')">IOS</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('android')">Android</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('uiux')">UI/UX</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('web')">Web Development</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('database')">Database</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('cloud')">Cloud & Push Notification</button>
+                            <button class="p-2 border border-0 h-s3-filt-butn rounded rounded-5 primary-blue m-2 shadow-sm font-poppins fw-normal h-s3-filter-h" onclick="filterSelection('payment')">Payment</button>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -199,193 +199,193 @@ function active($currect_page){
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Swift</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Swift</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">PWA</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">PWA</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Objective-C</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Objective-C</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">X-Code</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">X-Code</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv ios android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Flutter</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Flutter</span>
                                 </div>
                                 <!-- android  -->
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Java</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Java</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Kotlin</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Kotlin</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-andr-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Android<br>Studio</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Android<br>Studio</span>
                                 </div>
                                 <!-- ui ux  -->
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Sketch</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Sketch</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Adobe XD</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Adobe XD</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Zeplin</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Zeplin</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Invision</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Invision</span>
                                 </div>
                                 <!-- web develop  -->
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">HTML5<br>CSS3</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">HTML5<br>CSS3</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Angular</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Angular</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Node.js</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Node.js</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">PHP</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">PHP</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Laravel</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Laravel</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-6.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Codelgniter</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Codelgniter</span>
                                 </div>
                                 <!-- database  -->
                                 <div class="text-center m-3 filterDiv database">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MongoDB</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">MongoDB</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv database">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MySQL</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">MySQL</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv database">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-data-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">MSSQL</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">MSSQL</span>
                                 </div>
                                 <!-- cloud  -->
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Cloud</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Google<br>Cloud</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Google<br>Analytics</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Google<br>Analytics</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Firebase<br>FCM</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Firebase<br>FCM</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Firebase<br>Crashlytics</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Firebase<br>Crashlytics</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv cloud">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-cloud-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">AWS</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">AWS</span>
                                 </div>
                                 <!-- payment  -->
                                 <div class="text-center m-3 filterDiv payment">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Telr</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Telr</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv payment">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-2.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Payfort</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Payfort</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv payment">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-3.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">RazorPay</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">RazorPay</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv payment">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-4.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">CCAvenue</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">CCAvenue</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv payment">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-5.png" alt="">
                                     </div>
-                                    <span class="font-poppins font-normal primary-blue h-s3-item-text">Paytm</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Paytm</span>
                                 </div>
                             </div>
                         </div>
@@ -425,7 +425,7 @@ function active($currect_page){
                 <div class="col-lg-6">
                     <div>
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">A Track Record of Excellence: Our Past Projects</h2>
-                        <p class="font-poppins font-normal light-blue pb-4">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
+                        <p class="font-poppins fw-normal light-blue pb-4">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure there isn't anything embarrassing ou need to be su </p>
                         <div class="d-none d-lg-block">
                             <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="projects">View More</a>
                         </div>
@@ -503,7 +503,7 @@ function active($currect_page){
                         </div>
                     </div>
                     <div class="mt-5 d-block d-lg-none text-center">
-                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">View More</a>
+                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="projects">View More</a>
                      </div>
                 </div>
             </div>
@@ -518,7 +518,7 @@ function active($currect_page){
                     <h2 class="font-fix-sb fs-2 primary-blue">Honest Reviews from Our Customers</h2>
                 </div>
                 <div class="col-lg-6">
-                    <p class="font-poppins font-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure th</p>
+                    <p class="font-poppins fw-normal para-black">ou need to be su hidden in the middle of text. All the Lo ure there isn't anything embarrassing ou need to be su   All the Lo ure th</p>
                 </div>
             </div>
             <div class="owl-carousel owl-theme">
@@ -531,7 +531,7 @@ function active($currect_page){
                                         <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
                                     <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
                                 </div>
                             </div>
@@ -547,7 +547,7 @@ function active($currect_page){
                                         <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
                                     <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
                                 </div>
                             </div>
@@ -563,7 +563,7 @@ function active($currect_page){
                                         <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins font-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
                                     <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
                                 </div>
                             </div>

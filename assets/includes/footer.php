@@ -29,9 +29,9 @@
                     <div class="col-sm-6 col-lg-3">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Services</h4>
                         <ul class="footer-ul list-unstyled">
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Graphic Design</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="appdevelopment">App Development</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Web Development</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">App Development</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Graphic Design</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">UI/UX Design</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Corporate Design</a></li>
                         </ul>

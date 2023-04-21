@@ -22,7 +22,7 @@ function active($currect_page){
                     <div class="col-lg-6">
                         <div class="abt-ban-img-parent">
                             <div class="abt-ban-img-child p-4 p-sm-5 bg-white rounded shadow z-1">
-                                <div>
+                                <div class="text-center">
                                     <img class="img-fluid" src="assets/images/contact-ban-img.png" alt="">
                                 </div>
                                 <div class="pt-3 pt-lg-5 pb-2">
@@ -30,13 +30,13 @@ function active($currect_page){
                                     <p class="font-poppins fw-medium light-blue">Creating Better Business Outcomes. Building Stronger Customer Connections.</p>
                                 </div>
                                 <div>
-                                    <form action="" method="post">
+                                    <form action="#" method="post">
                                         <input type="text" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Name" required>
                                         <input type="email" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="E-Mail" required>
                                         <input type="tel" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Phone" required>
                                         <textarea class="cont-form-input cont-form-txt-area w-100 border-bottom p-2 my-3" placeholder="Message"></textarea>
                                         <div class="text-center mt-3">
-                                            <button class="text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded border-0" href="#">Submit</button>
+                                            <button type="submit" value="send" class="text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded border-0" href="#">Submit</button>
                                         </div>
                                     </form>
                                 </div>

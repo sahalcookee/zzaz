@@ -1,3 +1,8 @@
+@media (min-width: 1400px) {
+    .appdev-s3-card-div-2{
+        height: 350px;
+    }
+}
 @media (min-width: 991.98px){
     .h-s3-pt{
         padding-top: 180px !important;
@@ -10,6 +15,12 @@
     }
 }
 /* ----------- */
+@media (max-width: 1199.98px) {
+    /* appdev  */
+    .appdev-s3-card-div-2{
+        height: 255px;
+    }
+}
 @media (max-width: 991.98px) { 
 
     /* nav  */
@@ -52,6 +63,10 @@
     .career-box-border{
         border: none;
     }
+    /* appdev  */
+    .appdev-s3-card-div-2{
+        height: 300px;
+    }
 }
 @media (max-width: 767.98px) {
     /* ---------home ----------- */
@@ -75,6 +90,10 @@
     /* -------- about ----------- */
     .abt-s2-box{
         width: 100%;
+    }
+    /* appdev  */
+    .appdev-s3-card-div-2{
+        height: 380px;
     }
 }
 @media (max-width: 575.98px) {
@@ -100,5 +119,9 @@
     /* project  */
     .proj-store-butn{
         width: 125px;
+    }
+    /* appdev  */
+    .appdev-s3-card-div-2{
+        height: 340px;
     }
 }

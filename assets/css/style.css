@@ -412,7 +412,7 @@ font-family: 'Poppins', sans-serif;
 .career-popoup-button{
   padding: 13px 50px;
 }
-/* project  */
+/*------------- project -------------- */
 .proj-store-butn{
   width: 150px;
 }
@@ -447,4 +447,44 @@ font-family: 'Poppins', sans-serif;
   top: -35px;
   right: 50%;
   transform: translate(50%, 50%);
+}
+/* ------------------app development---------------  */
+.appdev-s2-ul li{
+  position: relative;
+}
+.appdev-s2-ul li::before{
+  content: '';
+  position: absolute;
+  background-image: url(../images/appdev-s2-list-icon.svg);
+  width: 18px;
+  height: 18px;
+  left: -24px;
+  top: 3px;
+}
+.appdev-s3-main-div{
+  background-color: #fff;
+  transition: 0.3s all ease;
+}
+.appdev-s3-main-div:hover{
+  background-color: #DFEBFA;
+  transition: 0.3s all ease;
+}
+.appdev-s3-card-h{
+  transition: all 0.3s ease;
+}
+.appdev-s3-main-div:hover .appdev-s3-card-h{
+  color: #154E9C;
+  transition: all 0.3s ease;
+}
+.appdev-s3-card-div-2{
+  clip-path: polygon(100% 0, 100% 100%, 50% 100%, 0 99%, 0 0);
+  transition: all 0.3s ease;
+  height: 300px;
+}
+.appdev-s3-main-div:hover .appdev-s3-card-div-2{
+  clip-path: polygon(100% 0, 100% 100%, 50% 95%, 0 99%, 0 0);
+  transition: all 0.3s ease;
+}
+.appdev-s3-card-div-2-shadow{
+  filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.25));
 }
