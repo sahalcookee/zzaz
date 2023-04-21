@@ -173,7 +173,7 @@ function active($currect_page){
     <section class="py-5">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6 p-0 p-sm-5">
+                <div class="col-lg-6 px-0 px-sm-5">
                     <img class="img-fluid" src="assets/images/appdev-s5-img.png" alt="">
                 </div>
                 <div class="col-lg-6">

@@ -57,7 +57,7 @@ function active($currect_page){
                         <div class="row gy-1 gy-sm-5">
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div class="d-flex d-sm-block">
+                                    <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zzazsolutions@gmail.com</p>
                                     </div>
@@ -65,7 +65,7 @@ function active($currect_page){
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div class="d-flex d-sm-block">
+                                    <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-phone-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">+91 2547815364</p>
                                     </div>
@@ -73,7 +73,7 @@ function active($currect_page){
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
-                                    <div class="d-flex d-sm-block">
+                                    <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">15-2, Jalan BK, Bandar Kinrara, 47180 Puchong, Selangor, Malaysia</p>
                                     </div>
@@ -81,7 +81,7 @@ function active($currect_page){
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none p-4 d-block">
-                                    <div class="d-flex d-sm-block">
+                                    <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-time-icon.svg" alt="">
                                         <p class="font-poppins fw-normal para-black pt-3">office time : 9AM to 6PM</p>
                                     </div>
