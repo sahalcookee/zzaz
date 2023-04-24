@@ -21,7 +21,7 @@ function active($currect_page){
                             <h1 class="fs-1 extra-light-blue font-fix-sb pb-3">Experience Next-Level Productivity with Our Software Solutions</h1>
                             <p class="font-poppins fw-normal light-blue pb-4">Technology is constantly evolving, and businesses must keep up to stay relevant.</p>
                             <div class="pb-5">
-                                <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Let’s Talk</a>
+                                <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Let’s Talk</a>
                             </div>
                             <img src="assets/images/h-ban-tech.svg" alt=""><span class="mx-3"><img src="assets/images/h-ban-plus.png" alt=""></span><span class="extra-light-blue font-fix-sb">Technologies</span>
                         </div>

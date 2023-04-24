@@ -57,7 +57,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-3 text-end">
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Let’s Talk</a>
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Let’s Talk</a>
                         </div>
                     </div>
                 </nav>

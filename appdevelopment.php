@@ -17,7 +17,7 @@ function active($currect_page){
                         <div class="mt-2 mt-lg-5 pt-lg-3 pt-xl-5 mb-5 mb-lg-0">
                             <h4 class="font-fix-m fs-4 light-blue pt-0 pt-lg-5">Service</h4>
                             <h2 class="font-fix-sb fs-2 extra-light-blue mb-4">App Development</h2>
-                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Get Your Estimate</a>
+                            <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Get Your Estimate</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -180,7 +180,7 @@ function active($currect_page){
                     <h2 class="font-fix-sb fs-2 primary-blue pb-3">Mobile App Development</h2>
                     <p class="font-poppins fw-normal para-black">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
                     <div class="mt-4">
-                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="#">Book Now</a>
+                        <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Book Now</a>
                     </div>
                 </div>
             </div>
