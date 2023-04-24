@@ -140,34 +140,35 @@ function active($currect_page){
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0">
-                    <form action="#" method="post">
+                    <form enctype="multipart/form-data" id="contact-form" data-email="sahalthanveer@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
+                        <input type="hidden" name="position" id="position">
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-lg-6 mb-3 mb-lg-0">
                                     <div class="mb-1">
                                         <label for="name" class="font-poppins fw-normal text-black" for="name">Name*</label><br>
-                                        <input type="text" id="name" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your name" required>
+                                        <input name="name" type="text" id="name" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your name" required>
                                     </div>
                                     <div class="mb-1">
                                         <label for="phone" class="font-poppins fw-normal text-black" for="name">Phone*</label><br>
-                                        <input type="tel" id="phone" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your phone number" required>
+                                        <input name="phone" type="tel" id="phone" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your phone number" required>
                                     </div>
                                     <div class="mb-1">
                                         <label for="email" class="font-poppins fw-normal text-black" for="name">Email*</label><br>
-                                        <input type="email" id="email" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your email" required>
+                                        <input name="email"  type="email" id="email" class="font-poppins fw-normal w-100 rounded career-form-input py-3 px-3 mb-3 mt-1" placeholder="Enter your email" required>
                                     </div>
                                     <div>
                                         <label class="font-poppins fw-semibold primary-blue rounded px-4 py-3 career-file-label" for="file-input" id="file-label">Upload Your CV</label>
-                                        <input class="career-file" type="file" name="file" id="file-input" onchange="updateLabel(this)">
+                                        <input class="career-file" type="file" name="attachment" id="file-input" onchange="updateLabel(this)">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div>
                                         <label for="message" class="font-poppins fw-normal text-black">Message</label>
-                                        <textarea id="message" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1 career-popup-textarea" placeholder="Enter your message"></textarea>
+                                        <textarea name="message" id="message" class="font-poppins fw-normal w-100 rounded career-form-input py-2 px-3 mb-3 mt-1 career-popup-textarea" placeholder="Enter your message"></textarea>
                                     </div>
                                     <div class="text-center">
-                                        <button type="submit" value="send" class="d-inline-block text-decoration-none text-white font-poppins fw-semibold z-butn rounded border-0 career-popoup-button">Submit</button>
+                                        <button type="submit" id="submit_btn" value="send" class="d-inline-block text-decoration-none text-white font-poppins fw-semibold z-butn rounded border-0 career-popoup-button">Submit</button>
                                     </div>
                                 </div>
                             </div>
@@ -205,6 +206,29 @@ function active($currect_page){
     <?php include 'assets/includes/footer.php';?>
 
     <!-- javascript  -->
+
+     <!-- form script  -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<!-- contact-submition-script  -->
+<?php 
+    $mail_sent = @$_GET['mail_sent'];
+    if($mail_sent){
+        echo "<script>Swal.fire({
+            icon: 'success',
+            title: 'Application  Submitted',
+            text: 'We will reach you soon!'
+          })</script>";
+        echo '<script>window.history.pushState({}, document.title, "/" + "zzaz/career.php");</script>';
+    }
+     ?>
+
+     <script>
+            document.querySelector("form").addEventListener("submit", function(){
+                document.getElementById("submit_btn").disabled= true;
+            })
+     </script>
+
+
     <!-- modal  -->
     <script>
         const exampleModal = document.getElementById('exampleModal')
@@ -221,7 +245,9 @@ function active($currect_page){
                 const modalTitle = exampleModal.querySelector('.modal-title')
                 const modalBodyInput = exampleModal.querySelector('.modal-body input')
 
-                modalTitle.textContent = `${recipient}`
+                modalTitle.textContent = `${recipient}`;
+                document.getElementById("position").value = recipient;
+                
             })
         }
     </script>
@@ -236,3 +262,4 @@ function active($currect_page){
         }
         }
     </script>
+

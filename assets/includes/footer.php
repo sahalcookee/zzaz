@@ -74,6 +74,8 @@
                 $('.dynamic').removeClass('fixed-nav');
                 }
             });
+
+            
         </script>
 </body>
 </html>

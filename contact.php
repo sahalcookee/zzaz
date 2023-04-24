@@ -30,13 +30,13 @@ function active($currect_page){
                                     <p class="font-poppins fw-medium light-blue">Creating Better Business Outcomes. Building Stronger Customer Connections.</p>
                                 </div>
                                 <div>
-                                    <form action="#" method="post">
-                                        <input type="text" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Name" required>
-                                        <input type="email" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="E-Mail" required>
-                                        <input type="tel" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Phone" required>
-                                        <textarea class="cont-form-input cont-form-txt-area w-100 border-bottom p-2 my-3" placeholder="Message"></textarea>
+                                    <form id="contact-form" data-email="sahalthanveer@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
+                                        <input type="text" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Name" name="name" required>
+                                        <input type="email" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="E-Mail" name="email" required>
+                                        <input type="tel" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Phone" name="phone" required>
+                                        <textarea class="cont-form-input cont-form-txt-area w-100 border-bottom p-2 my-3" placeholder="Message" name="message"></textarea>
                                         <div class="text-center mt-3">
-                                            <button type="submit" value="send" class="text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded border-0" href="#">Submit</button>
+                                            <button type="submit" id="submit_btn" value="send" class="text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded border-0">Submit</button>
                                         </div>
                                     </form>
                                 </div>
@@ -103,5 +103,29 @@ function active($currect_page){
         </div>
     </section>
 
+
+<!-- contact-form-submition-script  -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<?php 
+    
+    $mail_sent = @$_GET['mail_sent'];
+    if($mail_sent){
+        echo "<script>Swal.fire({
+            icon: 'success',
+            title: 'Enquiry  Submitted',
+            text: 'We will reach you soon!'
+          })</script>";
+        echo '<script>window.history.pushState({}, document.title, "/" + "zzaz/contact.php");</script>';
+    }
+     ?>
+<!-- submit button disable after click  -->
+     <script>
+            document.querySelector("form").addEventListener("submit", function(){
+                document.getElementById("submit_btn").disabled= true;
+            })
+     </script>
+
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
+
