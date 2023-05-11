@@ -583,6 +583,9 @@ function active($currect_page){
             </div>
         </div>
     </section>
+    
+    <!-- footer  -->
+    <?php include 'assets/includes/footer.php';?>
 
     <!-- javascript -->
         <!-- filter-tab  -->
@@ -662,6 +665,5 @@ function active($currect_page){
             document.title = newTitle;
         });
         </script>
-
-<!-- footer  -->
-<?php include 'assets/includes/footer.php';?>
+    </body>
+</html>

@@ -213,3 +213,6 @@ function active($currect_page){
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
+
+    </body>
+</html>

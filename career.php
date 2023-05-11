@@ -269,5 +269,8 @@ function active($currect_page){
         });
     </script>
 
-<!-- footer  -->
-<?php include 'assets/includes/footer.php';?>
+    <!-- footer  -->
+    <?php include 'assets/includes/footer.php';?>
+
+    </body>
+</html>
