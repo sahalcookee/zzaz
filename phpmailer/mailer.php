@@ -7,7 +7,7 @@ require 'vendor/autoload.php';
 
 function send_email($subject, $message, $attachment = [])
 {
-    $to_email = "sahalthanveer@gmail.com";
+    $to_email = "zzazatsolutions@gmail.com";
     $from_name = "zzaz solutions";
     $user_name = "email.cookee@gmail.com";
     $password = "jfacsrmjveosmuaf";

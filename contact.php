@@ -30,7 +30,7 @@ function active($currect_page){
                                     <p class="font-poppins fw-medium light-blue">Creating Better Business Outcomes. Building Stronger Customer Connections.</p>
                                 </div>
                                 <div>
-                                    <form id="contact-form" data-email="sahalthanveer@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
+                                    <form id="contact-form" data-email="zzazatsolutions@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
                                         <input type="text" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Name" name="name" required>
                                         <input type="email" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="E-Mail" name="email" required>
                                         <input type="tel" class="cont-form-input w-100 border-bottom p-2 my-3" placeholder="Phone" name="phone" required>
@@ -116,7 +116,7 @@ function active($currect_page){
             title: 'Enquiry  Submitted',
             text: 'We will reach you soon!'
           })</script>";
-        echo '<script>window.history.pushState({}, document.title, "/" + "zzaz/contact.php");</script>';
+        echo '<script>window.history.pushState({}, document.title, "/" + "contact");</script>';
     }
      ?>
 <!-- submit button disable after click  -->

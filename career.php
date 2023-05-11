@@ -140,7 +140,7 @@ function active($currect_page){
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0">
-                    <form enctype="multipart/form-data" id="contact-form" data-email="sahalthanveer@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
+                    <form enctype="multipart/form-data" id="contact-form" data-email="zzazatsolutions@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
                         <input type="hidden" name="position" id="position">
                         <div class="container-fluid">
                             <div class="row">
@@ -218,7 +218,7 @@ function active($currect_page){
             title: 'Application  Submitted',
             text: 'We will reach you soon!'
           })</script>";
-        echo '<script>window.history.pushState({}, document.title, "/" + "zzaz/career.php");</script>';
+        echo '<script>window.history.pushState({}, document.title, "/" + "career");</script>';
     }
      ?>
 
