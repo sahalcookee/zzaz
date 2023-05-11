@@ -43,8 +43,9 @@ function active($currect_page){
                     </div>
                 </div>
                 <div class="col-lg-9">
-                    <p class="font-poppins fw-normal para-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on thZe Internet tend to repeat predefined chunks as necessary,</p>
-                    <p class="font-poppins fw-normal para-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on thZe Internet tend to repeat predefined chunks as necessary,</p>
+                    <p class="font-poppins fw-normal para-black">At ZZAZ Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
+                    <p class="font-poppins fw-normal para-black">With over [Number of Years] years of experience in the software industry, we've built a reputation for delivering high-quality software on time and on budget. We're committed to using the latest technologies and best practices to ensure that our clients get the most out of their software investments.</p>
+                    <p class="font-poppins fw-normal para-black">At ZZAZ Solutions , we believe that software development is a collaborative process. We work closely with our clients throughout the development lifecycle to ensure that their vision is realized in the final product. Whether you're a small business looking to streamline your operations, or a large enterprise seeking to improve your customer experience, we're here to help.</p>
                 </div>
             </div>
         </div>
@@ -67,7 +68,7 @@ function active($currect_page){
                             </div>
                             <div>
                                 <h4 class="font-fix-sb fs-4 extra-light-blue mb-1">Vision</h4>
-                                <p class="font-poppins fw-normal light-blue">t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem </p>
+                                <p class="font-poppins fw-normal light-blue">We are committed to staying at the forefront of emerging technologies and continuously improving our products and services to meet the evolving needs of our customers. Our ultimate goal is to make a positive impact on the world through technology</p>
                             </div>
                         </div>
                         <div class="d-flex abt-s2-box py-3">
@@ -76,7 +77,7 @@ function active($currect_page){
                             </div>
                             <div>
                                 <h4 class="font-fix-sb fs-4 extra-light-blue mb-1">Mission</h4>
-                                <p class="font-poppins fw-normal light-blue">t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem </p>
+                                <p class="font-poppins fw-normal light-blue">To create innovative and efficient software solutions that empower businesses to achieve their full potential and enhance the lives of people through technology.</p>
                             </div>
                         </div>
                         <div class="d-flex abt-s2-box align-self-end py-3">
@@ -85,7 +86,7 @@ function active($currect_page){
                             </div>
                             <div>
                                 <h4 class="font-fix-sb fs-4 extra-light-blue mb-1">Values</h4>
-                                <p class="font-poppins fw-normal light-blue">t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem </p>
+                                <p class="font-poppins fw-normal light-blue">Emphasizing innovation and continuous improvement as a core value helps us stay ahead of the competition and provide cutting-edge solutions to our clients.</p>
                             </div>
                         </div>
                     </div>
@@ -200,6 +201,15 @@ function active($currect_page){
             </div>
         </div>
     </section>
+
+    <!-- javascript  -->
+    <!-- title change  -->
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            var newTitle = "Zzaz Solutions | About Us.";
+            document.title = newTitle;
+        });
+        </script>
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>

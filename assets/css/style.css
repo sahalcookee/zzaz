@@ -148,6 +148,10 @@ font-family: 'Poppins', sans-serif;
 }
 .h-s1-card-p{
   transition: 0.3s all ease;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .h-s1-card-div:hover .h-s1-card-p{
   color: #154E9C;

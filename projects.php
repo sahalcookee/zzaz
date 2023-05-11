@@ -43,7 +43,7 @@ function active($currect_page){
                                     <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">Official App of Sharjah Sports Council</span>
                                 </div>
                                 <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">Government Service App</h2>
-                                <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is eager to contribute its efforts and skills to achieving the Sharjah Government's strategic goals in sports and youth activities. The official app of the Sharjah Sports Council is intended to publicize the council's different programmes and activities. Users will get the frequent updates about council’s latest news, events, awards etc.</p>
+                                <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is committed to supporting the Sharjah Government's vision for sports and youth activities, and they were eager to leverage the expertise and resources towards achieving these goals. The Sharjah Sports Council's official app aims to promote the council's various programs and events, and keep users informed about the latest news, awards, and other developments.</p>
                                 <div class="mt-2">
                                     <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                     <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
@@ -61,7 +61,7 @@ function active($currect_page){
                                     <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">Official App of Sharjah Sports Council</span>
                                 </div>
                                 <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">Government Service App</h2>
-                                <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is eager to contribute its efforts and skills to achieving the Sharjah Government's strategic goals in sports and youth activities. The official app of the Sharjah Sports Council is intended to publicize the council's different programmes and activities. Users will get the frequent updates about council’s latest news, events, awards etc.</p>
+                                <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is committed to supporting the Sharjah Government's vision for sports and youth activities, and they were eager to leverage the expertise and resources towards achieving these goals. The Sharjah Sports Council's official app aims to promote the council's various programs and events, and keep users informed about the latest news, awards, and other developments.</p>
                                 <div class="mt-2">
                                     <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                     <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
@@ -85,7 +85,7 @@ function active($currect_page){
                                         <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">Tajmahal</span>
                                     </div>
                                     <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">Tiles and Sanitary App</h2>
-                                    <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is eager to contribute its efforts and skills to achieving the Sharjah Government's strategic goals in sports and youth activities. The official app of the Sharjah Sports Council is intended to publicize the council's different programmes and activities. Users will get the frequent updates about council’s latest news, events, awards etc.</p>
+                                    <p class="font-poppins fw-normal para-black">Tajmahal, one of the best tiles and sanitary showrooms in Edathanattukara, has our futuristic mobile app for their customers.With the app, customers have access to an extensive range of products and their details, and they can download catalogs and make inquiries about anything that interests them. Moreover, they can stay informed about the latest additions and any deals available.</p>
                                     <div class="mt-2">
                                         <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                         <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
@@ -103,7 +103,7 @@ function active($currect_page){
                                         <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">Tajmahal</span>
                                     </div>
                                     <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">Tiles and Sanitary App</h2>
-                                    <p class="font-poppins fw-normal para-black">The Sharjah Sports Council is eager to contribute its efforts and skills to achieving the Sharjah Government's strategic goals in sports and youth activities. The official app of the Sharjah Sports Council is intended to publicize the council's different programmes and activities. Users will get the frequent updates about council’s latest news, events, awards etc.</p>
+                                    <p class="font-poppins fw-normal para-black">Tajmahal, one of the best tiles and sanitary showrooms in Edathanattukara, has our futuristic mobile app for their customers.With the app, customers have access to an extensive range of products and their details, and they can download catalogs and make inquiries about anything that interests them. Moreover, they can stay informed about the latest additions and any deals available.</p>
                                     <div class="mt-2">
                                         <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                         <a class="proj-store-butn-a me-3" href="#"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
@@ -140,5 +140,14 @@ function active($currect_page){
         </div>
     </section>
 
+        <!-- javascript  -->
+        <!-- title change  -->
+        <script>
+            window.addEventListener('DOMContentLoaded', function() {
+                var newTitle = "Zzaz Solutions | Our Projects.";
+                document.title = newTitle;
+            });
+            </script>
+            
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>

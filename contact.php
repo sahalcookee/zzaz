@@ -27,7 +27,7 @@ function active($currect_page){
                                 </div>
                                 <div class="pt-3 pt-lg-5 pb-2">
                                     <h4 class="font-fix-m fs-4 primary-blue">Let’s Talk</h4>
-                                    <p class="font-poppins fw-medium light-blue">Creating Better Business Outcomes. Building Stronger Customer Connections.</p>
+                                    <p class="font-poppins fw-medium light-blue">Let Us Hear From You.</p>
                                 </div>
                                 <div>
                                     <form id="contact-form" data-email="zzazatsolutions@gmail.com" action="form_submition.php" method="post" charset="UTF-8">
@@ -125,6 +125,14 @@ function active($currect_page){
                 document.getElementById("submit_btn").disabled= true;
             })
      </script>
+
+     <!-- title change  -->
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            var newTitle = "Zzaz Solutions | Contact Us.";
+            document.title = newTitle;
+        });
+    </script>
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>

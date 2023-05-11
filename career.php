@@ -202,64 +202,72 @@ function active($currect_page){
         </div>
     </section>
 
-    <!-- footer  -->
-    <?php include 'assets/includes/footer.php';?>
-
+    
     <!-- javascript  -->
-
+    
      <!-- form script  -->
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<!-- contact-submition-script  -->
-<?php 
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+     <!-- contact-submition-script  -->
+     <?php 
     $mail_sent = @$_GET['mail_sent'];
     if($mail_sent){
         echo "<script>Swal.fire({
             icon: 'success',
             title: 'Application  Submitted',
             text: 'We will reach you soon!'
-          })</script>";
+        })</script>";
         echo '<script>window.history.pushState({}, document.title, "/" + "career");</script>';
     }
-     ?>
+    ?>
 
-     <script>
-            document.querySelector("form").addEventListener("submit", function(){
-                document.getElementById("submit_btn").disabled= true;
-            })
-     </script>
-
-
-    <!-- modal  -->
-    <script>
-        const exampleModal = document.getElementById('exampleModal')
-            if (exampleModal) {
-            exampleModal.addEventListener('show.bs.modal', event => {
-                // Button that triggered the modal
-                const button = event.relatedTarget
-                // Extract info from data-bs-* attributes
-                const recipient = button.getAttribute('data-bs-whatever')
-                // If necessary, you could initiate an Ajax request here
-                // and then do the updating in a callback.
-
-                // Update the modal's content.
-                const modalTitle = exampleModal.querySelector('.modal-title')
-                const modalBodyInput = exampleModal.querySelector('.modal-body input')
-
-                modalTitle.textContent = `${recipient}`;
-                document.getElementById("position").value = recipient;
-                
-            })
-        }
+<script>
+    document.querySelector("form").addEventListener("submit", function(){
+        document.getElementById("submit_btn").disabled= true;
+    })
     </script>
+
+
+<!-- modal  -->
+<script>
+    const exampleModal = document.getElementById('exampleModal')
+            if (exampleModal) {
+                exampleModal.addEventListener('show.bs.modal', event => {
+                    // Button that triggered the modal
+                    const button = event.relatedTarget
+                    // Extract info from data-bs-* attributes
+                    const recipient = button.getAttribute('data-bs-whatever')
+                    // If necessary, you could initiate an Ajax request here
+                    // and then do the updating in a callback.
+                    
+                    // Update the modal's content.
+                    const modalTitle = exampleModal.querySelector('.modal-title')
+                    const modalBodyInput = exampleModal.querySelector('.modal-body input')
+                    
+                    modalTitle.textContent = `${recipient}`;
+                    document.getElementById("position").value = recipient;
+                    
+                })
+            }
+            </script>
     <!-- no file chosen -->
     <script>
         function updateLabel(input) {
-        var label = document.getElementById("file-label");
-        if (input.value) {
-            label.innerHTML = input.files[0].name;
-        } else {
-            label.innerHTML = "Upload Your CV";
+            var label = document.getElementById("file-label");
+            if (input.value) {
+                label.innerHTML = input.files[0].name;
+            } else {
+                label.innerHTML = "Upload Your CV";
+            }
         }
-        }
+        </script>
+
+    <!-- title change  -->
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            var newTitle = "Zzaz Solutions | Career.";
+            document.title = newTitle;
+        });
     </script>
 
+<!-- footer  -->
+<?php include 'assets/includes/footer.php';?>
