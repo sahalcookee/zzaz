@@ -16,6 +16,10 @@
 }
 /* ----------- */
 @media (max-width: 1199.98px) {
+    /* ----home -- */
+    .h-ban-h{
+        font-size: 32px;
+    }
     /* appdev  */
     .appdev-s3-card-div-2{
         height: 255px;
@@ -47,6 +51,9 @@
     .h-s5-testim-img-div{
         width: 115px;
         height: 115px;
+    }
+    .h-ban-h{
+        font-size: 36px;
     }
     /*---------------- footer ----------------- */
     .footer-logo-img{
@@ -86,6 +93,9 @@
     }
     .h-s3-item-text{
         font-size: 13px;
+    }
+    .h-ban-h{
+        font-size: 36px;
     }
     /* -------- about ----------- */
     .abt-s2-box{

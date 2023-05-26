@@ -57,7 +57,7 @@ font-family: 'Poppins', sans-serif;
 }
 .dropdown-menu{
   inset: 10px auto auto 0px !important;
-  width: 300px;
+  width: auto;
 }
 .dropdown-item:focus, .dropdown-item:hover{
   background-color: #DFEBFA !important;
@@ -135,6 +135,9 @@ font-family: 'Poppins', sans-serif;
 .h-ban-clip-ps{
   padding-left: 15%;
   padding-right: 10%;
+}
+.h-ban-h{
+  font-size: 39px;
 }
 /* section -1  */
 .h-s1-card-div{

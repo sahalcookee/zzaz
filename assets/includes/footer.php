@@ -41,8 +41,7 @@
                         <ul class="footer-ul list-unstyled">
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Visitor Management System</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Feedback Management System</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Visitor Management System</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Feedback Management System</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Facility Management System</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-lg-3">

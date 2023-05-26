@@ -18,7 +18,7 @@ function active($currect_page){
                     </div>
                     <div class="col-lg-6">
                         <div class="py-4">
-                            <h1 class="fs-1 extra-light-blue font-fix-sb pb-3">Revolutionize The Way You Work With Our State-of-the-Art Software Tools.</h1>
+                            <h1 class="h-ban-h extra-light-blue font-fix-sb pb-3">Revolutionize The Way You Work With Our State-of-the-Art Software Tools.</h1>
                             <p class="font-poppins fw-normal light-blue pb-4">Streamline your business processes with our innovative software solutions</p>
                             <div class="pb-5">
                                 <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Let’s Talk</a>

@@ -132,7 +132,7 @@ function active($currect_page){
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                        <p class="font-poppins fw-normal para-black">We have been working in this field for over 5 years. Our experience and journey have been quite fruitful over the years. You can gain from picking us in many ways because we are subject matter experts in the area.</p>
                                     </div>
                                 </div>
                             </div>
@@ -144,7 +144,7 @@ function active($currect_page){
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                        <p class="font-poppins fw-normal para-black">We create a variety of on-demand mobile apps that streamline and improve your company's operations. Any organisation could potentially be upgraded by using our specially designed solutions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@ function active($currect_page){
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                        <p class="font-poppins fw-normal para-black">The length of time needed to construct a mobile app is determined by the features and technology the customer wants for their app. The longer it will take, the smarter the app is.</p>
                                     </div>
                                 </div>
                             </div>
@@ -168,7 +168,7 @@ function active($currect_page){
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                        <p class="font-poppins fw-normal para-black">Yes, we appreciate our consumers and enjoy their happiness. If you require any assistance or maintenance for your supplied products, our professionals are always online and ready to help. However, additional maintenance and support fees may be required for add-ons.</p>
                                     </div>
                                 </div>
                             </div>

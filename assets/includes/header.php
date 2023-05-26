@@ -46,9 +46,9 @@
                                         Solutions
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Action</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Another action</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Something else here</a></li>
+                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Visitor Management System</a></li>
+                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Feedback Management System</a></li>
+                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Facility Management System</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('projects');?>" href="projects">Projects</a></li>
@@ -95,9 +95,9 @@
                                     Solutions
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-resp">
-                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Action</a></li>
-                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Visitor Management System</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Feedback Management System</a></li>
+                                    <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Facility Management System</a></li>
                                 </ul>
                             </li>
                             <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('projects');?>" href="projects">Projects</a></li>
