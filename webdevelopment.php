@@ -16,14 +16,14 @@ function active($currect_page){
                     <div class="col-lg-6">
                         <div class="mt-2 mt-lg-5 pt-lg-3 pt-xl-5 mb-5 mb-lg-0">
                             <h4 class="font-fix-m fs-4 light-blue pt-0 pt-lg-5">Service</h4>
-                            <h2 class="font-fix-sb fs-2 extra-light-blue mb-4">App Development</h2>
+                            <h2 class="font-fix-sb fs-2 extra-light-blue mb-4">Web Development</h2>
                             <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Get Your Estimate</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="abt-ban-img-parent">
                             <div class="abt-ban-img-child">
-                                <img class="img-fluid abt-ban-img" src="assets/images/appdev-ban-img.png" alt="">
+                                <img class="img-fluid abt-ban-img" src="assets/images/webdev-ban-img.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -37,17 +37,15 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Mobile App Development</h2>
+                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Web Design and Development</h2>
                     <p class="font-poppins fw-normal para-black">With a focus on innovation and quality, our app development team is dedicated to helping businesses stay ahead of the curve in a rapidly evolving digital landscape. Our team of experienced developers is skilled in using the latest technologies and development frameworks to create mobile apps that run seamlessly across different platforms, including iOS and Android. We take a collaborative approach to app development, working closely with our clients to ensure that their app meets their specific requirements and exceeds their expectations.
 </p>
                     <p class="font-poppins fw-normal para-black">We offer a range of mobile app development services, including app design, development, testing, and deployment. We also provide ongoing maintenance and support to ensure that our clients' apps remain up-to-date and bug-free.
 </p>
-                    <p class="font-poppins fw-normal para-black">Whether you need a simple mobile app or a complex enterprise-level application, we can help. Our mobile app development service is tailored to meet the unique needs of businesses across different industries, including healthcare, finance, retail, and more.
-</p>
-                    <p class="font-poppins fw-normal para-black">We pride ourselves on delivering high-quality, cost-effective, and timely solutions that help our clients achieve their business goals. Contact us today to learn more about how our mobile app development service can help your business succeed in the mobile-first world.</p>
+
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="assets/images/appdev-s1-img.png" alt="">
+                    <img class="img-fluid" src="assets/images/webdev-s1-img.png" alt="">
                 </div>
             </div>
         </div>
@@ -58,7 +56,7 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">App Strategy</h2>
+                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Web Design and Development at Zzaz</h2>
                     <p class="font-poppins fw-normal light-blue">Zzaz solutions focuses on delivering high-quality, user-centric apps that provide a seamless experience for our users. We prioritize thorough research and analysis of user needs and preferences, as well as market trends and competitor offerings, to ensure our apps meet and exceed expectations.</p>
                     <p class="font-poppins fw-normal light-blue">Our development process includes agile methodologies, frequent testing and iteration, and close collaboration between our development team and stakeholders to ensure alignment with project goals. We also prioritize scalability and flexibility, designing apps that can easily adapt to changing user needs and evolving technology landscapes. Overall, our mobile app development strategy is designed to deliver innovative, engaging, and effective solutions that meet the needs of our users and drive business success.</p>
                 </div>
@@ -78,7 +76,49 @@ function active($currect_page){
         </div>
     </section>
 
-    <!-- section-3  -->
+    <!-- section 3  -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="mb-4">
+                        <h2 class="font-fix-sb fs-2 primary-blue pb-3">Custom Web Application Development</h2>
+                        <p class="font-poppins fw-normal para-black">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                    </div>
+                    <div>
+                        <h2 class="font-fix-sb fs-2 primary-blue pb-3">Website Development and Maintenance</h2>
+                        <p class="font-poppins fw-normal para-black">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="assets/images/webdev-s3-img.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section 4  -->
+    <section class="py-5 banner-bg">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="assets/images/webdev-s4-img.png" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <div class="mb-4">
+                        <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">E-Commerce Website Development</h2>
+                        <p class="font-poppins fw-normal light-blue">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                    </div>
+                    <div>
+                        <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Portal Development</h2>
+                        <p class="font-poppins fw-normal light-blue">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section-5  -->
     <section class="py-5">
         <div class="container">
             <div class="row">
@@ -193,21 +233,19 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Revolutionizing App Dev With Tech</h2>
+                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Revolutionizing Web Dev With Tech</h2>
                     <p class="font-poppins fw-normal light-blue">We constantly stay up-to-date with the latest technologies to ensure our services are always cutting-edge.</p>
                 </div>
                 <div class="col-lg-6">
                     <div class="d-flex justify-content-around my-5">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-ios-5.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-ios-2.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/appdev-s4-apple.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-andr-3.png" alt="">
-                    </div>
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-1.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-2.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-3.png" alt="">
+                        </div>
                     <div class="d-flex justify-content-around my-5">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-ios-1.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-andr-1.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-andr-2.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-ios-4.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-4.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-5.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-6.png" alt="">
                     </div>
                 </div>
             </div>
@@ -219,10 +257,10 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 px-0 px-sm-5">
-                    <img class="img-fluid" src="assets/images/appdev-s5-img.png" alt="">
+                    <img class="img-fluid" src="assets/images/webdev-s5-img.png" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Discover the Perfect App Development Company</h2>
+                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Discover the Perfect Web Development Company</h2>
                     <p class="font-poppins fw-normal para-black">We offer a range of mobile app development services, including app design, development, testing, and deployment. We also provide ongoing maintenance and support to ensure that our clients' apps remain up-to-date and bug-free.</p>
                     <p class="font-poppins fw-normal para-black">We pride ourselves on delivering high-quality, cost-effective, and timely solutions that help our clients achieve their business goals. Contact us today to learn more about how our mobile app development service can help your business succeed in the mobile-first world.</p>
                     <div class="mt-4">
@@ -244,6 +282,8 @@ function active($currect_page){
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
+
     <?php include 'assets/includes/servicepage-carousel-script.php';?>
+
     </body>
 </html>

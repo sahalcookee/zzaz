@@ -30,10 +30,9 @@
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Services</h4>
                         <ul class="footer-ul list-unstyled">
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="appdevelopment">App Development</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Web Development</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Graphic Design</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="webdevelopment">Web Development</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Corporate Branding</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">UI/UX Design</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Corporate Design</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-lg-4">
@@ -54,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <div class="text-center"><p class="font-poppins fw-medium text-white footer-copyright m-0 pb-1">© 2023 All rights reserved by Zzaz Solutions. Designed by <a class="text-white text-decoration-none" href="https://cookee.io" target="_blank">Cookee.</a></p></div>
+            <div class="text-center"><p class="font-poppins fw-medium text-white footer-copyright m-0 pb-1">© 2023 All rights reserved by Zzaz Solutions.</p></div>
         </div>
     </section>
     

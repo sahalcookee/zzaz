@@ -79,7 +79,7 @@ function active($currect_page){
                     <a class="text-decoration-none" href="#">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
                             <img src="assets/images/h-s1-icon-3.png" alt="">
-                            <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Graphic Design</h4>
+                            <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Corporate Branding</h4>
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">Successful graphic design requires a deep understanding of design principles, an eye for aesthetics, and the ability to think creatively and solve problems. Our team totally nailed it!</p>
                         </div>
                     </a>
@@ -93,7 +93,7 @@ function active($currect_page){
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <!-- <div class="col-lg-4 col-sm-6">
                     <a class="text-decoration-none" href="#">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
                             <img src="assets/images/h-s1-icon-5.png" alt="">
@@ -101,7 +101,7 @@ function active($currect_page){
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">Stand out from the competition with a visually stunning corporate design that resonates with your target audience.</p>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -531,7 +531,7 @@ function active($currect_page){
                     <p class="font-poppins fw-normal para-black">Their words has encouraged us to keep pushing forward and to always put our customers first.</p>
                 </div>
             </div>
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel owl-carousel-1 owl-theme">
                 <div class="item">
                     <div class="mt-3 mt-lg-5 pt-5">
                         <div class="row justify-content-center mt-4">
@@ -646,7 +646,7 @@ function active($currect_page){
         <!-- carousel  -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
         <script>
-           var owl = $('.owl-carousel');
+           var owl = $('.owl-carousel-1');
                 owl.owlCarousel({
                     items:1,
                     loop:true,
