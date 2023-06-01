@@ -31,8 +31,8 @@
                         <ul class="footer-ul list-unstyled">
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="appdevelopment">App Development</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="webdevelopment">Web Development</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Corporate Branding</a></li>
-                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">UI/UX Design</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="corporatebranding">Corporate Branding</a></li>
+                            <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="uiux">UI/UX Design</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-lg-4">

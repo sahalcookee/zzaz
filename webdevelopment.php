@@ -37,12 +37,9 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Web Design and Development</h2>
-                    <p class="font-poppins fw-normal para-black">With a focus on innovation and quality, our app development team is dedicated to helping businesses stay ahead of the curve in a rapidly evolving digital landscape. Our team of experienced developers is skilled in using the latest technologies and development frameworks to create mobile apps that run seamlessly across different platforms, including iOS and Android. We take a collaborative approach to app development, working closely with our clients to ensure that their app meets their specific requirements and exceeds their expectations.
-</p>
-                    <p class="font-poppins fw-normal para-black">We offer a range of mobile app development services, including app design, development, testing, and deployment. We also provide ongoing maintenance and support to ensure that our clients' apps remain up-to-date and bug-free.
-</p>
-
+                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Web Design And Development</h2>
+                    <p class="font-poppins fw-normal para-black">Web design and development is the process of creating visually appealing and functional websites. It involves a combination of artistic design skills and technical knowledge to produce websites that are user-friendly, visually engaging, and optimized for performance. Web designers utilize various tools and technologies to create layouts, select color schemes, and design graphical elements that enhance the user experience.</p>
+                    <p class="font-poppins fw-normal para-black">Web developers, on the other hand, focus on the technical implementation of these designs, using programming languages such as HTML, CSS, and JavaScript to build the website's structure and functionality. They ensure that the website is responsive, compatible across different devices and browsers, and optimized for search engines. Web design and development are integral to establishing a strong online presence, enabling businesses and individuals to effectively communicate and engage with their target audience in the digital realm.</p>
                 </div>
                 <div class="col-lg-6">
                     <img class="img-fluid" src="assets/images/webdev-s1-img.png" alt="">
@@ -54,22 +51,22 @@ function active($currect_page){
     <!-- section-2  -->
     <section class="banner-bg py-5">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-top">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Web Design and Development at Zzaz</h2>
-                    <p class="font-poppins fw-normal light-blue">Zzaz solutions focuses on delivering high-quality, user-centric apps that provide a seamless experience for our users. We prioritize thorough research and analysis of user needs and preferences, as well as market trends and competitor offerings, to ensure our apps meet and exceed expectations.</p>
-                    <p class="font-poppins fw-normal light-blue">Our development process includes agile methodologies, frequent testing and iteration, and close collaboration between our development team and stakeholders to ensure alignment with project goals. We also prioritize scalability and flexibility, designing apps that can easily adapt to changing user needs and evolving technology landscapes. Overall, our mobile app development strategy is designed to deliver innovative, engaging, and effective solutions that meet the needs of our users and drive business success.</p>
+                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Web Design And Development At Zzaz</h2>
+                    <p class="font-poppins fw-normal light-blue">At our company, we specialize in web design and development, creating stunning and functional websites that meet the unique needs of our clients. Our team of skilled designers and developers work collaboratively to bring our clients' visions to life, ensuring a seamless user experience and a visually appealing interface. We believe that a well-designed website is not only aesthetically pleasing but also intuitive and user-friendly, making it easy for visitors to navigate and find the information they need.</p>
+                    <p class="font-poppins fw-normal light-blue">From crafting captivating layouts to implementing cutting-edge technologies, we are committed to delivering high-quality websites that effectively represent our clients' brands and drive their online success. With our expertise in responsive design, search engine optimization, and web analytics, we strive to create websites that not only look great but also perform optimally across all devices and attract organic traffic. Trust us to transform your online presence and take your business to new heights with our exceptional web design and development services.</p>
                 </div>
                 <div class="col-lg-6">
                     <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Benefits</h2>
                     <ul class="font-poppins fw-medium extra-light-blue list-unstyled appdev-s2-ul">
-                        <li class="ms-5 mb-4">Simplified development process.</li>
-                        <li class="ms-5 my-4">Excellent results.</li>
-                        <li class="ms-5 my-4">A single codebase for iOS and Android mobile apps.</li>
-                        <li class="ms-5 my-4">Resources, time and cost-saving.</li>
-                        <li class="ms-5 my-4">No need for multiple teams.</li>
-                        <li class="ms-5 my-4">Enables developers to swiftly start-up.</li>
-                        <li class="ms-5 my-4">Allows making changes instantly and more.</li>
+                        <li class="ms-5 mb-4">Enhanced user experience.</li>
+                        <li class="ms-5 my-4">Improved search engine visibility (SEO).</li>
+                        <li class="ms-5 my-4">Increased website performance.</li>
+                        <li class="ms-5 my-4">Mobile responsiveness.</li>
+                        <li class="ms-5 my-4">Secure and reliable functionality.</li>
+                        <li class="ms-5 my-4">Streamlined navigation and user flow.</li>
+                        <li class="ms-5 my-4">Cross-browser compatibility.</li>
                     </ul>
                 </div>
             </div>
@@ -83,11 +80,11 @@ function active($currect_page){
                 <div class="col-lg-6">
                     <div class="mb-4">
                         <h2 class="font-fix-sb fs-2 primary-blue pb-3">Custom Web Application Development</h2>
-                        <p class="font-poppins fw-normal para-black">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                        <p class="font-poppins fw-normal para-black">Provides businesses with the advantage of having a solution that aligns perfectly with their processes, helping them streamline operations, improve efficiency, and achieve their objectives more effectively. By incorporating unique features, intuitive user interfaces, and seamless integration with existing systems, custom web applications offer a powerful tool that empowers businesses to optimize their operations and stay ahead in a competitive digital landscape.</p>
                     </div>
                     <div>
                         <h2 class="font-fix-sb fs-2 primary-blue pb-3">Website Development and Maintenance</h2>
-                        <p class="font-poppins fw-normal para-black">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                        <p class="font-poppins fw-normal para-black">Website development and maintenance are integral aspects of establishing a successful online presence. Website development involves the creation and design of a website, including its layout, functionality, and overall user experience. Skilled web developers utilize programming languages, frameworks, and design tools to build websites that align with the client's objectives and target audience.Effective website maintenance ensures that visitors have a seamless and engaging experience while interacting with the site, ultimately contributing to increased traffic, user satisfaction, and business success.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -107,11 +104,11 @@ function active($currect_page){
                 <div class="col-lg-6">
                     <div class="mb-4">
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">E-Commerce Website Development</h2>
-                        <p class="font-poppins fw-normal light-blue">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                        <p class="font-poppins fw-normal light-blue">With the increasing popularity of online shopping, e-commerce websites have become essential tools for businesses to reach a wider audience and tap into the global market.The development process involves creating a user-friendly interface, integrating secure payment gateways, implementing inventory management systems, and ensuring a smooth and efficient checkout process. Additionally, features such as product search, customer reviews, and personalized recommendations enhance the user experience and promote customer satisfaction.</p>
                     </div>
                     <div>
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Portal Development</h2>
-                        <p class="font-poppins fw-normal light-blue">Cross-platform app development is the most affordable, time-saving solution for mobile apps & is one of the most happening IT trends lately. Flutter, a Google product, is undeniably one of the most hashed-out frameworks in this area. And at Cookee, we often use it in our software projects.</p>
+                        <p class="font-poppins fw-normal light-blue">Web portal development refers to the process of creating a centralized online platform that serves as a gateway to various resources and services. It involves designing and building a user-friendly interface that provides seamless access to information, applications, and tools. </p>
                     </div>
                 </div>
             </div>
@@ -261,8 +258,7 @@ function active($currect_page){
                 </div>
                 <div class="col-lg-6">
                     <h2 class="font-fix-sb fs-2 primary-blue pb-3">Discover the Perfect Web Development Company</h2>
-                    <p class="font-poppins fw-normal para-black">We offer a range of mobile app development services, including app design, development, testing, and deployment. We also provide ongoing maintenance and support to ensure that our clients' apps remain up-to-date and bug-free.</p>
-                    <p class="font-poppins fw-normal para-black">We pride ourselves on delivering high-quality, cost-effective, and timely solutions that help our clients achieve their business goals. Contact us today to learn more about how our mobile app development service can help your business succeed in the mobile-first world.</p>
+                    <p class="font-poppins fw-normal para-black">From responsive design and user-friendly interfaces to seamless navigation and optimized performance, we prioritize delivering websites that not only look visually stunning but also provide a superior user experience.</p>
                     <div class="mt-4">
                         <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Book Now</a>
                     </div>
