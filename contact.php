@@ -59,7 +59,7 @@ function active($currect_page){
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zbeesolutions@gmail.com</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zazzsolutions@gmail.com</p>
                                     </div>
                                 </a>
                             </div>
@@ -133,7 +133,7 @@ function active($currect_page){
      <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "ZBEE Solutions | Contact Us.";
+            var newTitle = "ZAZZ Solutions | Contact Us.";
             document.title = newTitle;
         });
     </script>

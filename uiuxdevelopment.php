@@ -232,7 +232,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "ZBEE Solutions | App Development.";
+            var newTitle = "ZAZZ Solutions | App Development.";
             document.title = newTitle;
         });
     </script>
