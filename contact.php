@@ -68,9 +68,9 @@ function active($currect_page){
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-phone-icon.svg" alt="">
                                         <div class="d-flex flex-column">
-                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Malaysia : +6011 37422938</a>
-                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Singapore : +65 8547 7485</a>
-                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">India : +91 9995768540</a>
+                                            <a href="tel:+601137422938" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Malaysia : +6011 37422938</a>
+                                            <a href="tel:+6585477485" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Singapore : +65 8547 7485</a>
+                                            <a href="tel:+919995768540" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">India : +91 9995768540</a>
                                         </div>
                                     </div>
                                 </div>
