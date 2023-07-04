@@ -18,7 +18,7 @@ function active($currect_page){
                     </div>
                     <div class="col-lg-6">
                         <div class="py-4">
-                            <h1 class="h-ban-h extra-light-blue font-fix-sb pb-3">Revolutionize The Way You Work With Our State-of-the-Art Software Tools.</h1>
+                            <h1 class="h-ban-h extra-light-blue font-fix-sb pb-3">Empowering Growth Through Innovative Software Solutions</h1>
                             <p class="font-poppins fw-normal light-blue pb-4">Streamline your business processes with our innovative software solutions</p>
                             <div class="pb-5">
                                 <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Let’s Talk</a>
@@ -116,7 +116,7 @@ function active($currect_page){
                 <div class="col-lg-6">
                     <div>
                         <h2 class="font-fix-sb fs-2 extra-light-blue pb-3 mt-2">Innovation At The Core</h2>
-                        <p class="font-poppins fw-normal light-blue pb-4">At ZZAZ Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
+                        <p class="font-poppins fw-normal light-blue pb-4">At ZBEE Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
                         <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="about">Read More</a>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ function active($currect_page){
                             <div class="col-lg-6 col-md-6">
                                 <div class="rounded rounded-2 h-s2-card-div d-flex align-items-center justify-content-center p-3 text-center">
                                     <h5 class="font-poppins fw-semibold light-blue fs-5 m-0 h-s2-card-h">No False Promises</h5>
-                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">Zzaz serves the legitimate truth and service. No false promises are given. We give our word on the things we are able to do.</p>
+                                    <p class="font-poppins fw-normal primary-blue m-0 h-s2-card-p">ZBEE serves the legitimate truth and service. No false promises are given. We give our word on the things we are able to do.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
@@ -661,7 +661,7 @@ function active($currect_page){
         <!-- title change  -->
         <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "Zzaz Solutions | Revolutionize The Way You Work With Our State-of-the-Art Software Tools.";
+            var newTitle = "ZBEE Solutions | Empowering Growth Through Innovative Software Solutions";
             document.title = newTitle;
         });
         </script>

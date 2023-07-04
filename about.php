@@ -43,9 +43,9 @@ function active($currect_page){
                     </div>
                 </div>
                 <div class="col-lg-9">
-                    <p class="font-poppins fw-normal para-black">At ZZAZ Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
+                    <p class="font-poppins fw-normal para-black">At ZBEE Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
                     <p class="font-poppins fw-normal para-black">With over [Number of Years] years of experience in the software industry, we've built a reputation for delivering high-quality software on time and on budget. We're committed to using the latest technologies and best practices to ensure that our clients get the most out of their software investments.</p>
-                    <p class="font-poppins fw-normal para-black">At ZZAZ Solutions , we believe that software development is a collaborative process. We work closely with our clients throughout the development lifecycle to ensure that their vision is realized in the final product. Whether you're a small business looking to streamline your operations, or a large enterprise seeking to improve your customer experience, we're here to help.</p>
+                    <p class="font-poppins fw-normal para-black">At ZBEE Solutions , we believe that software development is a collaborative process. We work closely with our clients throughout the development lifecycle to ensure that their vision is realized in the final product. Whether you're a small business looking to streamline your operations, or a large enterprise seeking to improve your customer experience, we're here to help.</p>
                 </div>
             </div>
         </div>
@@ -120,14 +120,14 @@ function active($currect_page){
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. Zzaz Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
+                                        <p class="font-poppins fw-normal para-black">Mobile app development requires the right blend of technology and resources. ZBEE Solutions develops apps that are customized and best fit our client demands. The cost of a mobile app varies according to the features, resources, type, & time involved.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Why choose Zzaz for your mobile app development?</h6>
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Why choose ZBEE for your mobile app development?</h6>
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -139,7 +139,7 @@ function active($currect_page){
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does Zzaz develop on-demand mobile apps?</h6>
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does ZBEE develop on-demand mobile apps?</h6>
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -163,7 +163,7 @@ function active($currect_page){
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does Zzaz offer support or maintenance post-delivery?</h6>
+                                        <h6 class="font-poppins fw-normal primary-blue fs-6">Does ZBEE offer support or maintenance post-delivery?</h6>
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -206,7 +206,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "Zzaz Solutions | About Us.";
+            var newTitle = "ZBEE Solutions | About Us.";
             document.title = newTitle;
         });
         </script>

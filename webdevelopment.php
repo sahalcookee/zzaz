@@ -53,7 +53,7 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-top">
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Web Design And Development At Zzaz</h2>
+                    <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Web Design And Development At ZBEE</h2>
                     <p class="font-poppins fw-normal light-blue">At our company, we specialize in web design and development, creating stunning and functional websites that meet the unique needs of our clients. Our team of skilled designers and developers work collaboratively to bring our clients' visions to life, ensuring a seamless user experience and a visually appealing interface. We believe that a well-designed website is not only aesthetically pleasing but also intuitive and user-friendly, making it easy for visitors to navigate and find the information they need.</p>
                     <p class="font-poppins fw-normal light-blue">From crafting captivating layouts to implementing cutting-edge technologies, we are committed to delivering high-quality websites that effectively represent our clients' brands and drive their online success. With our expertise in responsive design, search engine optimization, and web analytics, we strive to create websites that not only look great but also perform optimally across all devices and attract organic traffic. Trust us to transform your online presence and take your business to new heights with our exceptional web design and development services.</p>
                 </div>
@@ -271,7 +271,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "Zzaz Solutions | App Development.";
+            var newTitle = "ZBEE Solutions | App Development.";
             document.title = newTitle;
         });
     </script>

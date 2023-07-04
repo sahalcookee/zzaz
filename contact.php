@@ -59,23 +59,27 @@ function active($currect_page){
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zzazsolutions@gmail.com</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zbeesolutions@gmail.com</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm-6 col-lg-6">
-                                <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
+                                <div class="text-decoration-none cont-info-box p-4">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-phone-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">+91 2547815364</p>
+                                        <div class="d-flex flex-column">
+                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Malaysia : +6011 37422938</a>
+                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">Singapore : +65 8547 7485</a>
+                                            <a href="#" class="font-poppins fw-normal para-black pt-3 cont-info-box-p d-block text-decoration-none">India : +91 9995768540</a>
+                                        </div>
                                     </div>
-                                </a>
+                                </div>
                             </div>
                             <div class="col-sm-6 col-lg-6">
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">15-2, Jalan BK, Bandar Kinrara, 47180 Puchong, Selangor, Malaysia</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">NO. 24 JALAN NAKHODA 1 TAMAN NAKHODA, 32200 LUMUT, PERAK</p>
                                     </div>
                                 </a>
                             </div>
@@ -129,7 +133,7 @@ function active($currect_page){
      <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "Zzaz Solutions | Contact Us.";
+            var newTitle = "ZBEE Solutions | Contact Us.";
             document.title = newTitle;
         });
     </script>
