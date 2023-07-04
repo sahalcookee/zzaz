@@ -32,13 +32,21 @@ function active($currect_page){
                 <div class="row mb-0 mb-lg-5">
                     <div class="col-lg-10 offset-lg-2 h-ban-clip">
                         <div class="container h-ban-clip-ps py-4">
-                            <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
+                            <!-- <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-1.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-2.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-3.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-4.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-5.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-6.png" alt="">
+                            </div> -->
+                            <div class="d-flex justify-content-around justify-content-lg-between flex-wrap owl-carousel owl-carousel-3 owl-theme">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-1.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-2.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-3.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-4.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-5.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-6.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -656,6 +664,32 @@ function active($currect_page){
                     autoplayTimeout:2500,
                     autoplayHoverPause:true,
                 });
+        </script>
+
+        <!-- client carousel  -->
+        <script>
+           var owl = $('.owl-carousel-3');
+                owl.owlCarousel({
+                    items:5,
+                    loop:true,
+                    dots:false,
+                    margin:10,
+                    autoplay:true,
+                    autoplayTimeout:2500,
+                    autoplayHoverPause:true,
+                    responsiveClass:true,
+                    responsive:{
+                        0:{
+                            items:3,
+                        },
+                        600:{
+                            items:4,
+                        },
+                        1000:{
+                            items:5,
+                        }
+                    }
+                })
         </script>
 
         <!-- title change  -->
