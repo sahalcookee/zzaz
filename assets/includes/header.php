@@ -81,7 +81,7 @@
                                 <a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('appdevelopment');?> <?php active('webdevelopment');?> <?php active('corporatebranding');?> <?php active('uiuxdevelopment');?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Services
                                 </a>
-                                <ul class="dropdown-menu dropdown-menu-resp">
+                                <ul class="dropdown-menu dropdown-menu-resp dropdown-menu-resp-2">
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="appdevelopment">App Development</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="webdevelopment">Web Development</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="corporatebranding">Corporate Branding</a></li>

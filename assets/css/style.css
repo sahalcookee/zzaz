@@ -113,6 +113,9 @@ font-family: 'Poppins', sans-serif;
 .dropdown-menu-resp{
   inset: 48px auto auto 30px !important;
 }
+.dropdown-menu-resp-2{
+  width: 83%;
+}
 .contact-bar{
   background-color: #DFEBFA;
 }
