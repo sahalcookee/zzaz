@@ -49,8 +49,8 @@
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+601137422938">Malaysia : +6011 37422938</a></li>
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+6585477485">Singapore : +65 85477485</a></li>
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+919995768540">India : +91 9995768540</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-mail"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">zazzsolutions@gmail.com</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" >NO. 24 JALAN NAKHODA 1 TAMAN NAKHODA, 32200 LUMUT, PERAK</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-mail"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="mailto:zzazatsolutions@gmail.com">zzazatsolutions@gmail.com</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" >No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak</a></li>
                         </ul>
                     </div>
                 </div>

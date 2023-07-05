@@ -56,10 +56,10 @@ function active($currect_page){
                     <div>
                         <div class="row gy-1 gy-sm-5">
                             <div class="col-sm-6 col-lg-6">
-                                <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
+                                <a class="text-decoration-none cont-info-box p-4 d-block" href="mailto:zzazatsolutions@gmail.com">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zazzsolutions@gmail.com</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zzazatsolutions@gmail.com</p>
                                     </div>
                                 </a>
                             </div>
@@ -79,7 +79,7 @@ function active($currect_page){
                                 <a class="text-decoration-none cont-info-box p-4 d-block" href="#">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">NO. 24 JALAN NAKHODA 1 TAMAN NAKHODA, 32200 LUMUT, PERAK</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak</p>
                                     </div>
                                 </a>
                             </div>
@@ -87,7 +87,7 @@ function active($currect_page){
                                 <a class="text-decoration-none p-4 d-block">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-time-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3">office time : 9AM to 6PM</p>
+                                        <p class="font-poppins fw-normal para-black pt-3">Office time : 9AM to 6PM</p>
                                     </div>
                                 </a>
                             </div>

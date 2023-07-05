@@ -32,14 +32,6 @@ function active($currect_page){
                 <div class="row mb-0 mb-lg-5">
                     <div class="col-lg-10 offset-lg-2 h-ban-clip">
                         <div class="container h-ban-clip-ps py-4">
-                            <!-- <div class="d-flex justify-content-around justify-content-lg-between flex-wrap">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-1.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-2.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-3.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-4.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-5.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img" src="assets/images/h-ban-client-6.png" alt="">
-                            </div> -->
                             <div class="d-flex justify-content-around justify-content-lg-between flex-wrap owl-carousel owl-carousel-3 owl-theme">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-1.png" alt="">
                                 <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-2.png" alt="">
@@ -75,7 +67,7 @@ function active($currect_page){
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="text-decoration-none" href="#">
+                    <a class="text-decoration-none" href="webdevelopment">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
                             <img src="assets/images/h-s1-icon-2.png" alt="">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Web Development</h4>
@@ -84,7 +76,7 @@ function active($currect_page){
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="text-decoration-none" href="#">
+                    <a class="text-decoration-none" href="corporatebranding">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
                             <img src="assets/images/h-s1-icon-3.png" alt="">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Corporate Branding</h4>
@@ -93,7 +85,7 @@ function active($currect_page){
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="text-decoration-none" href="#">
+                    <a class="text-decoration-none" href="uiuxdevelopment">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
                             <img src="assets/images/h-s1-icon-4.png" alt="">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">UI/UX Design</h4>
@@ -425,11 +417,14 @@ function active($currect_page){
                         <div class="me-3 me-md-5 mt-4 mt-md-0">
                             <img src="assets/images/contact-bar-img.svg" alt="">
                         </div>
-                        <a href="#" class="contact-bar-a text-decoration-none light-blue">
+                        <div class="text-decoration-none light-blue">
                             <div class="mt-4 mt-md-0">
-                                <h4 class="font-fix-m fs-4 text-center lh-lg">Contact Us Now<br>+91 2547815364</h4>
+                                <h4 class="font-fix-m fs-3 text-start lh-lg">Contact Us Now</h4>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+6011 37422938">Malaysia +6011 37422938</a>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+65 8547 7485">Singapore +65 8547 7485</a>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+91 9995768540">India +91 9995768540</a>
                             </div>
-                        </a>
+                        </div>
                     </div>
                 </div>
             </div>

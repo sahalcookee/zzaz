@@ -44,7 +44,7 @@ function active($currect_page){
                 </div>
                 <div class="col-lg-9">
                     <p class="font-poppins fw-normal para-black">At ZAZZ Solutions , we're passionate about developing innovative software solutions that help our clients succeed in today's rapidly evolving digital landscape. Our team of experienced developers, designers, and project managers work together to create custom software applications that are tailored to meet the specific needs of each of our clients.</p>
-                    <p class="font-poppins fw-normal para-black">With over [Number of Years] years of experience in the software industry, we've built a reputation for delivering high-quality software on time and on budget. We're committed to using the latest technologies and best practices to ensure that our clients get the most out of their software investments.</p>
+                    <p class="font-poppins fw-normal para-black">With over 5+ years of experience in the software industry, we've built a reputation for delivering high-quality software on time and on budget. We're committed to using the latest technologies and best practices to ensure that our clients get the most out of their software investments.</p>
                     <p class="font-poppins fw-normal para-black">At ZAZZ Solutions , we believe that software development is a collaborative process. We work closely with our clients throughout the development lifecycle to ensure that their vision is realized in the final product. Whether you're a small business looking to streamline your operations, or a large enterprise seeking to improve your customer experience, we're here to help.</p>
                 </div>
             </div>
@@ -191,11 +191,14 @@ function active($currect_page){
                         <div class="me-3 me-md-5 mt-4 mt-md-0">
                             <img src="assets/images/contact-bar-img.svg" alt="">
                         </div>
-                        <a href="#" class="contact-bar-a text-decoration-none light-blue">
+                        <div class="text-decoration-none light-blue">
                             <div class="mt-4 mt-md-0">
-                                <h4 class="font-fix-m fs-4 text-center lh-lg">Contact Us Now<br>+91 2547815364</h4>
+                                <h4 class="font-fix-m fs-3 text-start lh-lg">Contact Us Now</h4>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+6011 37422938">Malaysia +6011 37422938</a>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+65 8547 7485">Singapore +65 8547 7485</a>
+                                <a class="font-fix-m fs-5 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+91 9995768540">India +91 9995768540</a>
                             </div>
-                        </a>
+                        </div>
                     </div>
                 </div>
             </div>
