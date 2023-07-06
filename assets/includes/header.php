@@ -34,10 +34,10 @@
                                         Services
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="appdevelopment">App Development</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="webdevelopment">Web Development</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="corporatebranding">Corporate Branding</a></li>
-                                        <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="uiuxdevelopment">UI/UX Designing</a></li>
+                                        <li><a class="dropdown-item py-2 px-5 font-poppins fw-medium primary-blue" href="appdevelopment">App Development</a></li>
+                                        <li><a class="dropdown-item py-2 px-5 font-poppins fw-medium primary-blue" href="webdevelopment">Web Development</a></li>
+                                        <li><a class="dropdown-item py-2 px-5 font-poppins fw-medium primary-blue" href="corporatebranding">Corporate Branding</a></li>
+                                        <li><a class="dropdown-item py-2 px-5 font-poppins fw-medium primary-blue" href="uiuxdevelopment">UI/UX Designing</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
