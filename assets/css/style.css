@@ -303,6 +303,9 @@ font-family: 'Poppins', sans-serif;
 .footer-copyright{
   font-size: 12px;
 }
+.ftr-no-width{
+  width: 86px;
+}
 
 /* -------------about ---------------- */
 .abt-ban-img{

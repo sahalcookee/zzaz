@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="mt-5 pt-3 pb-5 mb-3">
-                <div class="row gy-4">
+                <div class="row gy-4 gx-4 gx-md-1">
                     <div class="col-sm-6 col-lg-2">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Menu</h4>
                         <ul class="footer-ul list-unstyled">
@@ -46,10 +46,10 @@
                     <div class="col-sm-6 col-lg-3">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Contact</h4>
                         <ul class="list-unstyled">
-                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+601137422938">Malaysia : +6011 37422938</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+6585477485">Singapore : +65 85477485</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+919995768540">India : +91 9995768540</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-mail"><a class="font-poppins fw-medium text-decoration-none text-white link-hover text-break" href="mailto:zzazatsolutions@gmail.com">zzazatsolutions@gmail.com</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+601137422938"><span class="d-inline-block ftr-no-width">Malaysia</span>: +6011 37422938</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+6585477485"><span class="d-inline-block ftr-no-width">Singapore</span>: +65 85477485</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+919995768540"><span class="d-inline-block ftr-no-width">India</span>: +91 9995768540</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-mail"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="mailto:zzazatsolutions@gmail.com">zzazatsolutions@gmail.com</a></li>
                             <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" >No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak</a></li>
                         </ul>
                     </div>
