@@ -56,10 +56,10 @@ function active($currect_page){
                     <div>
                         <div class="row gy-1 gy-sm-5">
                             <div class="col-sm-6 col-lg-6">
-                                <a class="text-decoration-none cont-info-box p-3 d-block" href="mailto:zzazatsolutions@gmail.com">
+                                <a class="text-decoration-none cont-info-box p-3 d-block" href="mailto:support@zzazsolutions.com">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-mail-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">zzazatsolutions@gmail.com</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">support@zzazsolutions.com</p>
                                     </div>
                                 </a>
                             </div>
