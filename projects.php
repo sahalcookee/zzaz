@@ -61,7 +61,7 @@ function active($currect_page){
                                     <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">Grocery</span>
                                 </div>
                                 <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">E-Commerce Grocery App</h2>
-                                <p class="font-poppins fw-normal para-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p class="font-poppins fw-normal para-black">Introducing our revolutionary e-commerce grocery app - your one-stop solution for convenient, personalized, and reliable grocery shopping. Browse, order, and receive fresh produce, pantry staples, and more right at your doorstep. Enjoy smart search filters, personalized recommendations, and secure payment options. Say goodbye to long queues and hello to a seamless grocery shopping experience with our app.</p>
                                 <div class="mt-2">
                                     <a class="proj-store-butn-a me-3" href="#" target="_blank"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                     <a class="proj-store-butn-a me-3" href="#" target="_blank"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
