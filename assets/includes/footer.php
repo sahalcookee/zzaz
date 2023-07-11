@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="mt-5 pt-3 pb-5 mb-3">
-                <div class="row gy-4 gx-4 gx-md-1">
+                <div class="row gy-4 gx-4 gx-md-1 justify-content-lg-center">
                     <div class="col-sm-6 col-lg-2">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Menu</h4>
                         <ul class="footer-ul list-unstyled">
@@ -35,15 +35,15 @@
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="uiuxdevelopment">UI/UX Design</a></li>
                         </ul>
                     </div>
-                    <div class="col-sm-6 col-lg-4">
+                    <!-- <div class="col-sm-6 col-lg-4">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Solutions</h4>
                         <ul class="footer-ul list-unstyled">
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Visitor Management System</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Feedback Management System</a></li>
                             <li class="ms-3 mb-2"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="#">Facility Management System</a></li>
                         </ul>
-                    </div>
-                    <div class="col-sm-6 col-lg-3">
+                    </div> -->
+                    <div class="col-sm-6 col-lg-4">
                         <h4 class="font-fix-sb fs-4 extra-light-blue mb-4">Contact</h4>
                         <ul class="list-unstyled">
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+601137422938"><span class="d-inline-block ftr-no-width">Malaysia</span>: +6011 37422938</a></li>

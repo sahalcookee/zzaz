@@ -130,6 +130,9 @@
     .proj-store-butn{
         width: 125px;
     }
+    .h-s3-filter-gap{
+        column-gap: unset;
+      }
     /* appdev  */
     /* .appdev-s3-card-div-2{
         height: 380px;

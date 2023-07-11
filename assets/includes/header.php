@@ -40,7 +40,7 @@
                                         <li><a class="dropdown-item py-2 px-5 font-poppins fw-medium primary-blue" href="uiuxdevelopment">UI/UX Designing</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown">
+                                <!-- <li class="dropdown">
                                     <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Solutions
                                     </a>
@@ -49,7 +49,7 @@
                                         <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Feedback Management System</a></li>
                                         <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Facility Management System</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('projects');?>" href="projects">Projects</a></li>
                                 <li><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('career');?>" href="career">Career</a></li>
                                 <li><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('contact');?>" href="contact">Contact</a></li>
@@ -88,7 +88,7 @@
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="uiuxdevelopment">UI/UX Designing</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown py-2 fs-5">
+                            <!-- <li class="dropdown py-2 fs-5">
                                 <a class="text-white text-decoration-none font-poppins fw-medium link-hover" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Solutions
                                 </a>
@@ -97,7 +97,7 @@
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Feedback Management System</a></li>
                                     <li><a class="dropdown-item py-2 ps-5 font-poppins fw-medium primary-blue" href="#">Facility Management System</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('projects');?>" href="projects">Projects</a></li>
                             <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('career');?>" href="career">Career</a></li>
                             <li class="py-2 fs-5"><a class="text-white text-decoration-none font-poppins fw-medium link-hover <?php active('contact');?>" href="contact">Contact</a></li>

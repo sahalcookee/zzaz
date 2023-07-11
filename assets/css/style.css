@@ -223,6 +223,9 @@ font-family: 'Poppins', sans-serif;
 .h-s3-filtr-item-img{
   width: 44px;
 }
+.h-s3-filter-gap{
+  column-gap: 4%;
+}
 /* section-4  */
 .h-s4-card-text{
   opacity: 0;

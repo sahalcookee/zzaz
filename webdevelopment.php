@@ -131,12 +131,17 @@ function active($currect_page){
                     <p class="font-poppins fw-normal light-blue">We constantly stay up-to-date with the latest technologies to ensure our services are always cutting-edge.</p>
                 </div>
                 <div class="col-lg-6">
-                    <div class="d-flex justify-content-around my-5">
+                    <div class="d-flex justify-content-around my-5 align-items-center">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-web-1.png" alt="">
-                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-2.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-7.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-10.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-11.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-8.png" alt="">
+                    </div>
+                    <div class="d-flex justify-content-around my-5 align-items-center">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-web-3.png" alt="">
-                        </div>
-                    <div class="d-flex justify-content-around my-5">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-9.png" alt="">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-web-2.png" alt="">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-web-4.png" alt="">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-web-5.png" alt="">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-web-6.png" alt="">

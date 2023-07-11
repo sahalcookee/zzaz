@@ -203,8 +203,14 @@ function active($currect_page){
                     </div>
                     <div class="col-lg-6">
                         <div class="py-2 py-lg-4">
-                            <div class="d-flex flex-wrap justify-content-around justify-content-lg-between">
+                            <div class="d-flex flex-wrap justify-content-around justify-content-lg-start h-s3-filter-gap">
                                 <!-- ios  -->
+                                <div class="text-center m-3 filterDiv ios android">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Flutter</span>
+                                </div>
                                 <div class="text-center m-3 filterDiv ios">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-1.png" alt="">
@@ -229,12 +235,6 @@ function active($currect_page){
                                     </div>
                                     <span class="font-poppins fw-normal primary-blue h-s3-item-text">X-Code</span>
                                 </div>
-                                <div class="text-center m-3 filterDiv ios android">
-                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
-                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-ios-5.png" alt="">
-                                    </div>
-                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Flutter</span>
-                                </div>
                                 <!-- android  -->
                                 <div class="text-center m-3 filterDiv android">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
@@ -255,6 +255,12 @@ function active($currect_page){
                                     <span class="font-poppins fw-normal primary-blue h-s3-item-text">Android<br>Studio</span>
                                 </div>
                                 <!-- ui ux  -->
+                                <div class="text-center m-3 filterDiv uiux">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-5.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Figma</span>
+                                </div>
                                 <div class="text-center m-3 filterDiv uiux">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-uiux-1.png" alt="">
@@ -284,7 +290,37 @@ function active($currect_page){
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-1.png" alt="">
                                     </div>
-                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">HTML5<br>CSS3</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">HTML5</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-7.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">CSS3</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-10.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Bootstrap</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-11.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Tailwind CSS</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-8.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">React JS</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv web">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-9.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Vue JS</span>
                                 </div>
                                 <div class="text-center m-3 filterDiv web">
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
@@ -314,7 +350,7 @@ function active($currect_page){
                                     <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-web-6.png" alt="">
                                     </div>
-                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Codelgniter</span>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">CodeIgniter</span>
                                 </div>
                                 <!-- database  -->
                                 <div class="text-center m-3 filterDiv database">
@@ -396,6 +432,18 @@ function active($currect_page){
                                         <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-5.png" alt="">
                                     </div>
                                     <span class="font-poppins fw-normal primary-blue h-s3-item-text">Paytm</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-6.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">Stripe</span>
+                                </div>
+                                <div class="text-center m-3 filterDiv payment">
+                                    <div class="h-s3-fil-item rounded-circle shadow text-center mb-2">
+                                        <img class="object-fit-contain h-s3-filtr-item-img" src="assets/images/h-pay-7.png" alt="">
+                                    </div>
+                                    <span class="font-poppins fw-normal primary-blue h-s3-item-text">PayPal</span>
                                 </div>
                             </div>
                         </div>

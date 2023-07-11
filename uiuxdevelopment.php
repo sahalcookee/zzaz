@@ -95,6 +95,7 @@ function active($currect_page){
                 </div>
                 <div class="col-lg-6">
                     <div class="d-flex justify-content-around my-5">
+                        <img class="h-s3-filtr-item-img" src="assets/images/h-uiux-5.png" alt="">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-uiux-1.png" alt="">
                         <img class="h-s3-filtr-item-img" src="assets/images/h-uiux-2.png" alt="">
                     </div>
