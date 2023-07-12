@@ -42,8 +42,8 @@ function active($currect_page){
                                 <div>
                                     <span class="font-fix-r px-3 py-2 me-2 rounded-pill para-black fs-6 career-box-sm-bg-blu">zBee</span>
                                 </div>
-                                <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">E-Commerce App in Malaysia</h2>
-                                <p class="font-poppins fw-normal para-black">zBee is a versatile e-commerce app in Malaysia that enables users to browse and order products from a wide range of categories like restaurants, cafes, grocery stores, pharmacies, and more. It offers dedicated apps for delivery personnel (RiderzBee) and merchants (MerchanzBee), ensuring seamless operations and efficient deliveries. Experience convenience and endless shopping possibilities with zBee, the go-to e-commerce app in Malaysia.</p>
+                                <h2 class="font-fix-sb fs-2 primary-blue mt-2 mb-3">Delivery App in Malaysia</h2>
+                                <p class="font-poppins fw-normal para-black">zBee is a comprehensive delivery application in Malaysia that simplifies the process of ordering and receiving products. With an extensive selection of categories including restaurants, cafes, grocery stores, pharmacies, and more, zBee offers a seamless shopping experience. The app provides dedicated apps for delivery personnel (RiderzBee) and merchants (MerchanzBee), ensuring efficient operations and timely deliveries. Discover the convenience of zBee, the ultimate delivery app for all your needs in Malaysia.</p>
                                 <div class="mt-2">
                                     <a class="proj-store-butn-a me-3" href="#" target="_bank"><img class="proj-store-butn" src="assets/images/proj-gplay-butn.svg" alt=""></a>
                                     <a class="proj-store-butn-a me-3" href="#" target="_bank"><img class="proj-store-butn" src="assets/images/proj-applestore-butn.svg" alt=""></a>
