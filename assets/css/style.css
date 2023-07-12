@@ -316,6 +316,7 @@ font-family: 'Poppins', sans-serif;
 /* -------------about ---------------- */
 .abt-ban-img{
   filter: drop-shadow(4px 4px 20px rgba(0, 0, 0, 0.25));
+  max-width: 546px !important;
 }
 .abt-ban-img-parent{
   position: relative;
@@ -506,4 +507,43 @@ font-family: 'Poppins', sans-serif;
 }
 .appdev-s3-card-div-2-shadow{
   filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.25));
+}
+/* floating button  */
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 3px 6px 25px #5050504d;
+  z-index: 100;
+}
+
+.my-float {
+  margin-top: 16px;
+}
+
+.bounce {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%,
+  25%,
+  50%,
+  75%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-12px);
+  }
 }

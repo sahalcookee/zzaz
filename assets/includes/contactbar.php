@@ -12,9 +12,9 @@
                         <div class="text-decoration-none light-blue">
                             <div class="mt-4 mt-md-0">
                                 <!-- <h4 class="font-fix-m fs-3 text-start lh-lg">Contact Us Now</h4> -->
-                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+6011 37422938"><span class="fs-6">Malaysia</span> <br> +6011 37422938</a>
-                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+65 8547 7485"><span class="fs-6">Singapore</span> <br> +65 8547 7485</a>
-                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+91 9995768540"><span class="fs-6">India</span> <br> +91 9995768540</a>
+                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+601137422938"><span class="fs-6">Malaysia</span> <br> +6011 37422938</a>
+                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+6585477485"><span class="fs-6">Singapore</span> <br> +65 8547 7485</a>
+                                <a class="font-fix-m fs-4 text-start lh-md d-block text-decoration-none light-blue contact-bar-a" href="tel:+919995768540"><span class="fs-6">India</span> <br> +91 9995768540</a>
                             </div>
                         </div>
                     </div>

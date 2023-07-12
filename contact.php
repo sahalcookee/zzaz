@@ -107,6 +107,9 @@ function active($currect_page){
         </div>
     </section>
 
+    <!-- floating-button  -->
+    <?php include 'assets/includes/whatsapp-float.php';?>
+
 
 <!-- contact-form-submition-script  -->
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

@@ -489,10 +489,10 @@ function active($currect_page){
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
                                         <img class="img-fluid" src="assets/images/h-s4-img-2.png" alt="">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
-                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Thanal</p>
+                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">4Kids</p>
                                             <div class="d-flex justify-content-around">
-                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
-                                                <a href="https://play.google.com/store/apps/details?id=com.daya.thanal" target="_blank">><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#" target="_blank">><img src="assets/images/h-s4-play-store.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -505,10 +505,10 @@ function active($currect_page){
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
                                         <img class="img-fluid" src="assets/images/h-s4-img-3.png" alt="">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
-                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Grocery</p>
+                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Tajmahal</p>
                                             <div class="d-flex justify-content-around">
-                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
-                                                <a href="#"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="https://play.google.com/store/apps/details?id=com.cookee.tajmahal" target="_blank"><img src="assets/images/h-s4-play-store.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -517,10 +517,10 @@ function active($currect_page){
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
                                         <img class="img-fluid" src="assets/images/h-s4-img-4.png" alt="">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
-                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Daily Choice</p>
+                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Wer2</p>
                                             <div class="d-flex justify-content-around">
-                                                <a href="https://apps.apple.com/in/app/daily-choice-food-delivery/id1533217862" target="_blank"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
-                                                <a href="https://play.google.com/store/apps/details?id=com.cookee.dailychoice" target="_blank"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-play-store.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -529,10 +529,10 @@ function active($currect_page){
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
                                         <img class="img-fluid" src="assets/images/h-s4-img-5.png" alt="">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
-                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Tajmahal</p>
+                                            <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">zBee</p>
                                             <div class="d-flex justify-content-around">
-                                                <a href="#"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
-                                                <a href="https://play.google.com/store/apps/details?id=com.cookee.tajmahal" target="_blank"><img src="assets/images/h-s4-play-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-ios-store.png" alt=""></a>
+                                                <a href="#" target="_blank"><img src="assets/images/h-s4-play-store.png" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
@@ -611,6 +611,9 @@ function active($currect_page){
             </div>
         </div>
     </section>
+
+    <!-- floating-button  -->
+    <?php include 'assets/includes/whatsapp-float.php';?>
     
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>

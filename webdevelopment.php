@@ -169,6 +169,9 @@ function active($currect_page){
         </div>
     </section>
 
+    <!-- floating-button  -->
+    <?php include 'assets/includes/whatsapp-float.php';?>
+
     <!-- javascript  -->
     <!-- title change  -->
     <script>

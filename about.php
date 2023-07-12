@@ -182,6 +182,9 @@ function active($currect_page){
     <!-- contact-bar  -->
     <?php include 'assets/includes/contactbar.php';?>
 
+    <!-- floating-button  -->
+    <?php include 'assets/includes/whatsapp-float.php';?>
+
     <!-- javascript  -->
     <!-- title change  -->
     <script>
