@@ -316,7 +316,6 @@ font-family: 'Poppins', sans-serif;
 /* -------------about ---------------- */
 .abt-ban-img{
   filter: drop-shadow(4px 4px 20px rgba(0, 0, 0, 0.25));
-  max-width: 546px !important;
 }
 .abt-ban-img-parent{
   position: relative;
