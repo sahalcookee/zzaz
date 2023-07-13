@@ -14,7 +14,7 @@ function active($currect_page){
             <div class="container pb-5">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <img class="h-banner-img img-fluid" src="assets/images/h-banner-img.png" alt="">
+                        <img class="h-banner-img img-fluid" src="assets/images/h-banner-img.png" alt="business growth">
                     </div>
                     <div class="col-lg-6">
                         <div class="py-4">
@@ -23,7 +23,7 @@ function active($currect_page){
                             <div class="pb-5">
                                 <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Let’s Talk</a>
                             </div>
-                            <img src="assets/images/h-ban-tech.svg" alt=""><span class="mx-3"><img src="assets/images/h-ban-plus.png" alt=""></span><span class="extra-light-blue font-fix-sb">Technologies</span>
+                            <img src="assets/images/h-ban-tech.svg" alt="developing technology"><span class="mx-3"><img src="assets/images/h-ban-plus.png" alt="more"></span><span class="extra-light-blue font-fix-sb">Technologies</span>
                         </div>
                     </div>
                 </div>
@@ -33,12 +33,12 @@ function active($currect_page){
                     <div class="col-lg-10 offset-lg-2 h-ban-clip">
                         <div class="container h-ban-clip-ps py-4">
                             <div class="d-flex justify-content-around justify-content-lg-between flex-wrap owl-carousel owl-carousel-3 owl-theme">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-1.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-2.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-3.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-4.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-5.png" alt="">
-                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-6.png" alt="">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-1.png" alt="cleints">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-2.png" alt="cleints">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-3.png" alt="cleints">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-4.png" alt="cleints">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-5.png" alt="cleints">
+                                <img class="p-3 p-md-0 object-fit-contain h-ban-client-img item" src="assets/images/h-ban-client-6.png" alt="cleints">
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ function active($currect_page){
                 <div class="col-lg-4 col-sm-6">
                     <a class="text-decoration-none" href="appdevelopment">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
-                            <img src="assets/images/h-s1-icon-1.png" alt="">
+                            <img src="assets/images/h-s1-icon-1.png" alt="app development">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">App Development</h4>
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">With a focus on innovation and quality, our app development team is dedicated to helping businesses stay ahead of the curve in a rapidly evolving digital landscape.</p>
                         </div>
@@ -69,7 +69,7 @@ function active($currect_page){
                 <div class="col-lg-4 col-sm-6">
                     <a class="text-decoration-none" href="webdevelopment">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
-                            <img src="assets/images/h-s1-icon-2.png" alt="">
+                            <img src="assets/images/h-s1-icon-2.png" alt="web development">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Web Development</h4>
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">From design to development and beyond, our web development team offers a full suite of services to help your website reach its full potential.</p>
                         </div>
@@ -78,7 +78,7 @@ function active($currect_page){
                 <div class="col-lg-4 col-sm-6">
                     <a class="text-decoration-none" href="corporatebranding">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
-                            <img src="assets/images/h-s1-icon-3.png" alt="">
+                            <img src="assets/images/h-s1-icon-3.png" alt="branding">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">Corporate Branding</h4>
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">Successful graphic design requires a deep understanding of design principles, an eye for aesthetics, and the ability to think creatively and solve problems. Our team totally nailed it!</p>
                         </div>
@@ -87,7 +87,7 @@ function active($currect_page){
                 <div class="col-lg-4 col-sm-6">
                     <a class="text-decoration-none" href="uiuxdevelopment">
                         <div class="rounded rounded-3 h-s1-card-div p-4">
-                            <img src="assets/images/h-s1-icon-4.png" alt="">
+                            <img src="assets/images/h-s1-icon-4.png" alt="ui/ux">
                             <h4 class="fs-4 primary-blue font-fix-m pt-2 pb-3">UI/UX Design</h4>
                             <p class="font-poppins fw-normal light-blue m-0 h-s1-card-p">We are committed to delivering UI/UX design solutions that are not only visually stunning but also optimized for accessibility and usability, ensuring that all users can enjoy your digital product.</p>
                         </div>
@@ -111,7 +111,7 @@ function active($currect_page){
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="assets/images/h-s2-img-1.png" alt="">
+                    <img class="img-fluid" src="assets/images/h-s2-img-1.png" alt="about">
                 </div>
                 <div class="col-lg-6">
                     <div>
@@ -171,7 +171,7 @@ function active($currect_page){
                     </div>
                 </div>
                 <div class="col-lg-6 h-s2-img2-pe">
-                    <img class="img-fluid" src="assets/images/h-s2-img-2.png" alt="">
+                    <img class="img-fluid" src="assets/images/h-s2-img-2.png" alt="branding">
                 </div>
             </div>
         </div>
@@ -475,7 +475,7 @@ function active($currect_page){
                             <div>
                                 <div class="p-2 h-s4-card-w">
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
-                                        <img class="img-fluid" src="assets/images/h-s4-img-1.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-1.png" alt="government app development">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
                                             <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Official app of Sharjah sports council</p>
                                             <div class="d-flex justify-content-around">
@@ -487,7 +487,7 @@ function active($currect_page){
                                 </div>
                                 <div class="p-2 h-s4-card-w">
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
-                                        <img class="img-fluid" src="assets/images/h-s4-img-2.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-2.png" alt="business app">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
                                             <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">4Kids</p>
                                             <div class="d-flex justify-content-around">
@@ -503,7 +503,7 @@ function active($currect_page){
                             <div>
                                 <div class="p-2 h-s4-card-w">
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
-                                        <img class="img-fluid" src="assets/images/h-s4-img-3.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-3.png" alt="business app">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
                                             <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Tajmahal</p>
                                             <div class="d-flex justify-content-around">
@@ -515,7 +515,7 @@ function active($currect_page){
                                 </div>
                                 <div class="p-2 h-s4-card-w">
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
-                                        <img class="img-fluid" src="assets/images/h-s4-img-4.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-4.png" alt="scooter app">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
                                             <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">Wer2</p>
                                             <div class="d-flex justify-content-around">
@@ -527,7 +527,7 @@ function active($currect_page){
                                 </div>
                                 <div class="p-2 h-s4-card-w">
                                     <div class="text-center position-relative h-s4-card-div rounded overflow-hidden">
-                                        <img class="img-fluid" src="assets/images/h-s4-img-5.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s4-img-5.png" alt="delivery app">
                                         <div class="position-absolute translate-middle top-50 start-50 w-75 h-s4-card-text">
                                             <p class="m-0 font-fix-sb text-white fs-6 mb-5 mb-lg-3 mb-xl-5">zBee</p>
                                             <div class="d-flex justify-content-around">
