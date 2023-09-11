@@ -8,7 +8,7 @@ require 'vendor/autoload.php';
 function send_email($subject, $message, $attachment = [])
 {
     $to_email = "zzazatsolutions@gmail.com";
-    $from_name = "ZAZZ solutions";
+    $from_name = "zzaz solutions";
     $user_name = "email.cookee@gmail.com";
     $password = "jfacsrmjveosmuaf";
     $host = "smtp.gmail.com";

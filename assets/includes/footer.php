@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div>
-            <div class="text-center"><p class="font-poppins fw-medium text-white footer-copyright m-0 pb-1">© 2023 All rights reserved by ZAZZ Solutions.</p></div>
+            <div class="text-center"><p class="font-poppins fw-medium text-white footer-copyright m-0 pb-1">© 2023 All rights reserved by zzaz Solutions.</p></div>
         </div>
     </section>
     

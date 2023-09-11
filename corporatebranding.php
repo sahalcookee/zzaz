@@ -54,7 +54,7 @@ function active($currect_page){
             <div class="row align-items-top">
                 <div class="col-lg-6">
                     <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">Branding Strategy</h2>
-                    <p class="font-poppins fw-normal light-blue">At Zazz, we prioritize a strong branding strategy to establish a distinctive and memorable identity in the market. Through careful market research and creative storytelling, we craft a compelling brand narrative that resonates with our target audience, fostering trust and loyalty while setting us apart from our competitors.</p>
+                    <p class="font-poppins fw-normal light-blue">At zzaz, we prioritize a strong branding strategy to establish a distinctive and memorable identity in the market. Through careful market research and creative storytelling, we craft a compelling brand narrative that resonates with our target audience, fostering trust and loyalty while setting us apart from our competitors.</p>
                     <p class="font-poppins fw-normal light-blue">We are specialized in helping businesses establish a strong and distinct identity. With our expertise and creativity, we work closely with our clients to craft unique and compelling brand strategies. Our logo design, color schemes, and typography are meticulously tailored to reflect each client's vision and values.</p>
                 </div>
                 <div class="col-lg-6">
@@ -111,7 +111,7 @@ function active($currect_page){
                     <img class="img-fluid" src="assets/images/branding-s5-img.png" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Corporate Branding At Zazz</h2>
+                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Corporate Branding At zzaz</h2>
                     <p class="font-poppins fw-normal para-black">We believe,corporate branding is more than just a logo and slogan. It's a strategic approach that reflects our values, vision, and commitment, establishing a strong identity that resonates with our stakeholders and sets us apart in the market.</p>
                     <div class="mt-4">
                         <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Book Now</a>
@@ -128,7 +128,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "ZAZZ Solutions | App Development.";
+            var newTitle = "zzaz Solutions | App Development.";
             document.title = newTitle;
         });
     </script>

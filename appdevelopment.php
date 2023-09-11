@@ -59,7 +59,7 @@ function active($currect_page){
             <div class="row align-items-top">
                 <div class="col-lg-6">
                     <h2 class="font-fix-sb fs-2 extra-light-blue pb-3">App Strategy</h2>
-                    <p class="font-poppins fw-normal light-blue">ZAZZ solutions focuses on delivering high-quality, user-centric apps that provide a seamless experience for our users. We prioritize thorough research and analysis of user needs and preferences, as well as market trends and competitor offerings, to ensure our apps meet and exceed expectations.</p>
+                    <p class="font-poppins fw-normal light-blue">zzaz solutions focuses on delivering high-quality, user-centric apps that provide a seamless experience for our users. We prioritize thorough research and analysis of user needs and preferences, as well as market trends and competitor offerings, to ensure our apps meet and exceed expectations.</p>
                     <p class="font-poppins fw-normal light-blue">Our development process includes agile methodologies, frequent testing and iteration, and close collaboration between our development team and stakeholders to ensure alignment with project goals. We also prioritize scalability and flexibility, designing apps that can easily adapt to changing user needs and evolving technology landscapes. Overall, our mobile app development strategy is designed to deliver innovative, engaging, and effective solutions that meet the needs of our users and drive business success.</p>
                 </div>
                 <div class="col-lg-6">
@@ -137,7 +137,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "ZAZZ Solutions | App Development.";
+            var newTitle = "zzaz Solutions | App Development.";
             document.title = newTitle;
         });
     </script>

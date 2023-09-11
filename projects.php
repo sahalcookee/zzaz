@@ -329,7 +329,7 @@ function active($currect_page){
         <!-- title change  -->
         <script>
             window.addEventListener('DOMContentLoaded', function() {
-                var newTitle = "ZAZZ Solutions | Our Projects.";
+                var newTitle = "zzaz Solutions | Our Projects.";
                 document.title = newTitle;
             });
             </script>

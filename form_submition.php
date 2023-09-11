@@ -9,7 +9,7 @@ if (@$_POST['name']) {
   $email = $_POST['email'] ?? "";
   $phone = $_POST['phone'] ?? "";
   $message = $_POST['message'] ?? "";
-  $subject = "ZAZZ solutions";
+  $subject = "zzaz solutions";
   $position = @$_POST['position'] ?: "";
   $attachment = [];
   if (isset($_FILES['attachment'])) {

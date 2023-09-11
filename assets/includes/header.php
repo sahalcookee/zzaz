@@ -10,7 +10,7 @@
     <meta property="og:title" content="ZZAZ Solutions - App and Web Development Company">
     <meta property="og:description" content="ZZAZ Solutions is a leading app and web development company offering innovative solutions for businesses. Contact us for customized app development and web design services.">
     <meta property="og:image" content="/assets/images/logo.svg">
-    <title>ZAZZ</title>
+    <title>zzaz</title>
     <link rel="icon" type="x-icon/image" href="assets/images/favicon.png">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
@@ -26,7 +26,7 @@
 {
   "@context": "http://schema.org",
   "@type": "LocalBusiness",
-  "name": "ZAZZ Solutions",
+  "name": "zzaz Solutions",
   "image": "http://zzazsolutions.com/assets/images/h-banner-img.png",
   "telephone": [
     "+6011 37422938",

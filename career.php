@@ -462,7 +462,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "ZAZZ Solutions | Career.";
+            var newTitle = "zzaz Solutions | Career.";
             document.title = newTitle;
         });
     </script>
