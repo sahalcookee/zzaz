@@ -98,7 +98,7 @@ function active($currect_page){
                         <div class="mt-5">
                             <h5 class="fs-5 font-poppins fw-medium primary-blue">Follow us on</h5>
                             <div>
-                                <p class="para-black"><a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Facebook</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Instagram</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Linkedin</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Twitter</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Pinterest</a></p>
+                                <p class="para-black"><a class="text-decoration-none para-black cont-social-a" href="https://www.facebook.com/zzazsolutions" target="_blank">Facebook</a> | <a class="text-decoration-none para-black cont-social-a" href="https://www.youtube.com/@zzazsolutions" target="_blank">Youtube</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Instagram</a> | <a class="text-decoration-none para-black cont-social-a" href="https://www.linkedin.com/company/zzaz-solutions/" target="_blank">Linkedin</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Twitter</a> | <a class="text-decoration-none para-black cont-social-a" href="#" target="_blank">Pinterest</a></p>
                             </div>
                         </div>
                     </div>
