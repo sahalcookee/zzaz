@@ -116,8 +116,8 @@ function active($currect_page){
                     <img class="img-fluid" src="assets/images/uiuxdev-s5-img.png" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Connect With zzaz, Stay Ahead Of The Game.</h2>
-                    <p class="font-poppins fw-normal para-black">At zzaz, we prioritize exceptional UI/UX design, ensuring seamless user experiences and visually appealing interfaces. By combining user-centric research with innovative design practices, we create intuitive solutions that leave a lasting impression on our customers.</p>
+                    <h2 class="font-fix-sb fs-2 primary-blue pb-3">Connect With ZZAZ, Stay Ahead Of The Game.</h2>
+                    <p class="font-poppins fw-normal para-black">At ZZAZ, we prioritize exceptional UI/UX design, ensuring seamless user experiences and visually appealing interfaces. By combining user-centric research with innovative design practices, we create intuitive solutions that leave a lasting impression on our customers.</p>
                     <div class="mt-4">
                         <a class="d-inline-block text-decoration-none text-white font-poppins fw-semibold px-5 py-3 z-butn rounded" href="contact">Book Now</a>
                     </div>
@@ -133,7 +133,7 @@ function active($currect_page){
     <!-- title change  -->
     <script>
         window.addEventListener('DOMContentLoaded', function() {
-            var newTitle = "zzaz Solutions | App Development.";
+            var newTitle = "ZZAZ Solutions | App Development.";
             document.title = newTitle;
         });
     </script>
