@@ -569,8 +569,8 @@ function active($currect_page){
                                         <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
-                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“ZZAZ Solutions exceeded all our expectations with their web development services. They not only created a stunning website but also optimized it for search engines, significantly boosting our online visibility. Their team's creativity and technical skills are unmatched. I'm thrilled with the results!”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">David Johnson</p>
                                 </div>
                             </div>
                         </div>
@@ -582,11 +582,11 @@ function active($currect_page){
                             <div class="col-10">
                                 <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
                                     <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
-                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-3.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
-                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“I approached ZZAZ Solutions for mobile app development, and I'm extremely impressed with the outcome. They not only delivered a feature-rich app but also provided excellent post-launch support. ZZAZ Solutions is a reliable partner, and I'm looking forward to working with them on future projects.”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Emily Chen</p>
                                 </div>
                             </div>
                         </div>
@@ -598,11 +598,27 @@ function active($currect_page){
                             <div class="col-10">
                                 <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
                                     <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
-                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-1.png" alt="">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-2.png" alt="">
                                     </div>
                                     <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
-                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in There are many variations of passages of Lorem Ipsum available, but the majority have suffered re are many variations of passages of Lorem Ipsum available, bu”</p>
-                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Customer Name</p>
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“ZZAZ Solutions has been our go-to partner for web development for years now. Their professionalism and attention to detail are unparalleled. They consistently deliver projects on time and within budget. Working with ZZAZ Solutions has been a game-changer for our online presence. We look forward to many more successful collaborations!”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">John Doe</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="mt-3 mt-lg-5 pt-5">
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-10">
+                                <div class="banner-bg w-100 px-2 px-sm-3 px-md-5 py-4 position-relative rounded rounded-3 position-relative">
+                                    <div class="rounded-circle overflow-hidden h-s5-testim-img-div position-absolute translate-middle start-50 top-0">
+                                        <img class="img-fluid" src="assets/images/h-s5-testimony-img-4.png" alt="">
+                                    </div>
+                                    <img class="mb-2" src="assets/images/h-s5-quote.png" alt="">
+                                    <p class="font-poppins fw-normal extra-light-blue m-0 text-center px-4">“ZZAZ Solutions is our go-to IT partner for a reason. Their professionalism and dedication to delivering high-quality solutions are second to none. They've helped us streamline our business processes and enhance our digital presence. Working with ZZAZ Solutions has been a game-changer for our company.”</p>
+                                    <p class="font-fix-sb extra-light-blue text-end mt-3 pe-4">Michael Adams</p>
                                 </div>
                             </div>
                         </div>
