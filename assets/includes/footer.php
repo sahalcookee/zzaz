@@ -10,7 +10,7 @@
                         <a class="mx-1 fotr-social" href="https://www.facebook.com/zzazsolutions" target="_blank"><img src="assets/images/footer-facebook.svg" alt=""></a>
                         <a class="mx-1 fotr-social" href="https://www.linkedin.com/company/zzaz-solutions" target="_blank"><img src="assets/images/footer-linkedin.svg" alt=""></a>
                         <a class="mx-1 fotr-social" href="https://www.youtube.com/@zzazsolutions" target="_blank"><img src="assets/images/footer-youtube.svg" alt=""></a>
-                        <a class="mx-1 fotr-social" href="#"><img src="assets/images/footer-twitter.svg" alt=""></a>
+                        <a class="mx-1 fotr-social" href="https://twitter.com/zzazsolutions" target="_blank"><img src="assets/images/footer-twitterx.svg" alt=""></a>
                         <a class="mx-1 fotr-social" href="https://www.instagram.com/zzazsolutions" target="_blank"><img src="assets/images/footer-insta.svg" alt=""></a>
                         <a class="mx-1 fotr-social" href="#"><img src="assets/images/footer-pinterest.svg" alt=""></a>
                     </div>
