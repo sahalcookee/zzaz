@@ -36,7 +36,7 @@
   "email": "support@ZZAZsolutions.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak"
+    "streetAddress": "No 10, Jln Medan Sitiawan2, 32000 Sitiawan Perak"
   }
 }
 </script>

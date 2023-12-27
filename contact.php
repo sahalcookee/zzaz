@@ -79,7 +79,7 @@ function active($currect_page){
                                 <a class="text-decoration-none cont-info-box p-3 d-block">
                                     <div class="d-flex align-items-center d-sm-block">
                                         <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
-                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak</p>
+                                        <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">No 10, Jln Medan Sitiawan2, 32000 Sitiawan Perak</p>
                                     </div>
                                 </a>
                             </div>

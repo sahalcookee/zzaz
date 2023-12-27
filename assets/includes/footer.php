@@ -51,7 +51,7 @@
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+6585477485"><span class="d-inline-block ftr-no-width">Singapore</span>: +65 85477485</a></li>
                             <li class="mb-3 ms-5 fotr-contact-phone"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="tel:+919995768540"><span class="d-inline-block ftr-no-width">India</span>: +91 9995768540</a></li>
                             <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-mail"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" href="mailto:support@zzazsolutions.com">support@zzazsolutions.com</a></li>
-                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" >No. 24 Jalan Nakhoda 1 Taman Nakhoda, 32200 Lumut, Perak</a></li>
+                            <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a class="font-poppins fw-medium text-decoration-none text-white link-hover" >No 10, Jln Medan Sitiawan2, 32000 Sitiawan Perak</a></li>
                         </ul>
                     </div>
                 </div>
