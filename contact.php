@@ -94,7 +94,7 @@ function active($currect_page)
                             <a class="text-decoration-none cont-info-box p-3 d-block">
                                 <div class="d-flex align-items-center d-sm-block">
                                     <img class="me-3" src="assets/images/contact-location-icon.svg" alt="">
-                                    <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p"><span class="fw-medium">MH UNITED AGENCY</span> <br>
+                                    <p class="font-poppins fw-normal para-black pt-3 cont-info-box-p">
                                         Suite 15-47, Level 15 Menara AIA,
                                         Intan Millenium Square
                                         No 68 Jalan Batai Laut 4, Taman Intan
