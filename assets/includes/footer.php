@@ -84,8 +84,7 @@
                                 class="font-poppins fw-medium text-decoration-none text-white link-hover"
                                 href="mailto:support@zzazsolutions.com">support@zzazsolutions.com</a></li>
                         <li class="mb-3 ms-5 fotr-contact-phone fotr-contact-location"><a
-                                class="font-poppins fw-medium text-decoration-none text-white link-hover"><span
-                                    class="fw-medium">MH UNITED AGENCY</span> <br>
+                                class="font-poppins fw-medium text-decoration-none text-white link-hover">
                                 Suite 15-47, Level 15 Menara AIA,
                                 Intan Millenium Square
                                 No 68 Jalan Batai Laut 4, Taman Intan
